@@ -60,12 +60,10 @@
               if [ -f "$src/manifest.hl" ]; then
                 cp $src/manifest.hl $out/share/icons/DeepinDarkV20-hypr/
               else
-                cat > $out/share/icons/DeepinDarkV20-hypr/manifest.hl << EOF
-                name = DeepinDarkV20-hypr
-                description = Deepin Dark Cursor Theme for Hyprland
-                version = 1.0
-                cursors_directory = hyprcursors
-                EOF
+                printf '%s\n' 'name = DeepinDarkV20-hypr' \
+                  'description = Deepin Dark Cursor Theme for Hyprland' \
+                  'version = 1.0' \
+                  'cursors_directory = hyprcursors' > $out/share/icons/DeepinDarkV20-hypr/manifest.hl
               fi
             '';
 
