@@ -1,0 +1,5 @@
+name = DeepinDarkV20-hypr
+description = Deepin Dark Cursor Theme for Hyprland
+version = 1.0
+cursors_directory = hyprcursors
+
