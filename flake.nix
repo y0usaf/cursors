@@ -76,24 +76,24 @@
             };
           };
 
-          ssbu-xcursor = pkgs.stdenv.mkDerivation {
-            pname = "ssbu-xcursor";
+          ssb-xcursor = pkgs.stdenv.mkDerivation {
+            pname = "ssb-xcursor";
             version = "1.0.0";
-            src = ./ssbu/xcursor;
+            src = ./ssb/xcursor;
 
             sourceRoot = ".";
 
             installPhase = ''
-              mkdir -p $out/share/icons/SSBU-x11
+              mkdir -p $out/share/icons/SSB-x11
               if [ -d "$src/cursors" ]; then
-                cp -r $src/cursors $out/share/icons/SSBU-x11/
+                cp -r $src/cursors $out/share/icons/SSB-x11/
               fi
               if [ -f "$src/index.theme" ]; then
-                cp $src/index.theme $out/share/icons/SSBU-x11/
+                cp $src/index.theme $out/share/icons/SSB-x11/
               else
-                cat > $out/share/icons/SSBU-x11/index.theme << EOF
+                cat > $out/share/icons/SSB-x11/index.theme << EOF
               [Icon Theme]
-              Name=SSBU-x11
+              Name=SSB-x11
               Comment=Super Smash Bros Ultimate X11 Cursor Theme
               EOF
               fi
