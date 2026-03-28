@@ -45,7 +45,7 @@
           meta.description = "Popucom ${capitalize color} animated Hyprland cursor theme";
         };
 
-        popucomColors = ["pink" "green" "blue" "yellow" "red" "orange" "cyan" "purple" "grey" "black"];
+        popucomColors = ["pink" "green" "blue" "yellow" "red" "orange" "cyan" "purple" "grey" "black" "inverted"];
 
         popucomPackages = builtins.listToAttrs (builtins.concatMap (color: [
           { name = "popucom-${color}-xcursor"; value = mkPopucomXcursor color; }
