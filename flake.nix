@@ -12,8 +12,47 @@
     flake-utils.lib.eachDefaultSystem (
       system: let
         pkgs = import nixpkgs {inherit system;};
+
+        capitalize = s: let
+          first = builtins.substring 0 1 s;
+          rest = builtins.substring 1 (-1) s;
+        in (pkgs.lib.toUpper first) + rest;
+
+        mkPopucomXcursor = color: pkgs.stdenv.mkDerivation {
+          pname = "popucom-${color}-xcursor";
+          version = "1.0.0";
+          src = ./popucom/${color}/xcursor;
+          sourceRoot = ".";
+          installPhase = ''
+            mkdir -p $out/share/icons/Popucom-${capitalize color}-x11
+            cp -r $src/cursors $out/share/icons/Popucom-${capitalize color}-x11/
+            cp $src/index.theme $out/share/icons/Popucom-${capitalize color}-x11/
+          '';
+          meta.description = "Popucom ${capitalize color} animated X11 cursor theme";
+        };
+
+        mkPopucomHyprcursor = color: pkgs.stdenv.mkDerivation {
+          pname = "popucom-${color}-hyprcursor";
+          version = "1.0.0";
+          src = ./popucom/${color}/hyprcursor;
+          sourceRoot = ".";
+          dontFixTimestamps = true;
+          installPhase = ''
+            mkdir -p $out/share/icons/Popucom-${capitalize color}-hypr
+            cp -r $src/hyprcursors $out/share/icons/Popucom-${capitalize color}-hypr/
+            cp $src/manifest.hl $out/share/icons/Popucom-${capitalize color}-hypr/
+          '';
+          meta.description = "Popucom ${capitalize color} animated Hyprland cursor theme";
+        };
+
+        popucomColors = ["pink" "green" "blue" "yellow" "red" "orange" "cyan" "purple" "grey" "black"];
+
+        popucomPackages = builtins.listToAttrs (builtins.concatMap (color: [
+          { name = "popucom-${color}-xcursor"; value = mkPopucomXcursor color; }
+          { name = "popucom-${color}-hyprcursor"; value = mkPopucomHyprcursor color; }
+        ]) popucomColors);
       in {
-        packages = {
+        packages = popucomPackages // {
           deepin-dark-xcursor = pkgs.stdenv.mkDerivation {
             pname = "deepin-dark-xcursor";
             version = "1.0.0";
