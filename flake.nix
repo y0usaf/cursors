@@ -113,6 +113,47 @@
             };
           };
 
+          raccoin-xcursor = pkgs.stdenv.mkDerivation {
+            pname = "raccoin-xcursor";
+            version = "1.0.0";
+            src = ./raccoin/xcursor;
+
+            sourceRoot = ".";
+
+            installPhase = ''
+              mkdir -p $out/share/icons/Raccoin-x11
+              cp -r $src/cursors $out/share/icons/Raccoin-x11/
+              cp $src/index.theme $out/share/icons/Raccoin-x11/
+            '';
+
+            meta = {
+              description = "Raccoin X11 cursor theme";
+              homepage = "https://github.com/y0usaf/Cursors";
+              license = pkgs.lib.licenses.mit;
+            };
+          };
+
+          raccoin-hyprcursor = pkgs.stdenv.mkDerivation {
+            pname = "raccoin-hyprcursor";
+            version = "1.0.0";
+            src = ./raccoin/hyprcursor;
+
+            sourceRoot = ".";
+            dontFixTimestamps = true;
+
+            installPhase = ''
+              mkdir -p $out/share/icons/Raccoin-hypr
+              cp -r $src/hyprcursors $out/share/icons/Raccoin-hypr/
+              cp $src/manifest.hl $out/share/icons/Raccoin-hypr/
+            '';
+
+            meta = {
+              description = "Raccoin Hyprland cursor theme";
+              homepage = "https://github.com/y0usaf/Cursors";
+              license = pkgs.lib.licenses.mit;
+            };
+          };
+
           ssb-xcursor = pkgs.stdenv.mkDerivation {
             pname = "ssb-xcursor";
             version = "1.0.0";
