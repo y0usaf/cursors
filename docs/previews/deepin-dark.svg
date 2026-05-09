@@ -1,0 +1,3236 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="592" height="448" viewBox="0 0 592 448">
+<style>
+.bg{fill:#f6f8fa}.card{fill:#fff;stroke:#d0d7de;stroke-width:1}.title{font:600 20px sans-serif;fill:#24292f}.label{font:12px sans-serif;fill:#57606a;text-anchor:middle}
+@media (prefers-color-scheme: dark){.bg{fill:#0d1117}.card{fill:#161b22;stroke:#30363d}.title{fill:#f0f6fc}.label{fill:#8b949e}}
+</style>
+<rect class="bg" width="592" height="448" rx="16"/>
+<text class="title" x="24" y="34">Deepin-Dark-xcursor</text>
+<rect class="card" x="24" y="52" width="112" height="102" rx="12"/>
+<svg x="48" y="66" width="64" height="64" viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet">
+<sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     id="deepin-dark-0-namedview21"
+     showgrid="true"
+     inkscape:zoom="16.860077"
+     inkscape:cx="-0.11341624"
+     inkscape:cy="11.91557"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19">
+    <inkscape:grid
+       type="xygrid"
+       id="deepin-dark-0-grid846" />
+  </sodipodi:namedview>
+  <metadata
+     id="deepin-dark-0-metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="deepin-dark-0-defs7">
+    <filter
+       id="deepin-dark-0-b-7-3"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-0-feGaussianBlur4" />
+    </filter>
+    <filter
+       id="deepin-dark-0-a-3-3"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.64999976"
+         id="deepin-dark-0-feGaussianBlur4-6" />
+    </filter>
+    <filter
+       id="deepin-dark-0-b-7-6"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-0-feGaussianBlur7" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.1907"
+       width="1.3236"
+       y="-.095361"
+       x="-.16181"
+       id="deepin-dark-0-b">
+      <feGaussianBlur
+         id="deepin-dark-0-feGaussianBlur871"
+         stdDeviation="0.62797713" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="deepin-dark-0-a">
+      <feGaussianBlur
+         id="deepin-dark-0-feGaussianBlur874"
+         stdDeviation="0.64999976" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-0-filter1090"
+       x="-0.1305"
+       width="1.261"
+       y="-0.092117647"
+       height="1.1842353">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.6525"
+         id="deepin-dark-0-feGaussianBlur1092" />
+    </filter>
+  </defs>
+  <g
+     id="deepin-dark-0-g915">
+    <path
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#deepin-dark-0-filter1090)"
+       d="M 6,7.4339993 V 24.433999 h 8 l 4,-6 z"
+       id="deepin-dark-0-path1088"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.08782px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+       d="M 5,2.7265624 V 3.9631104 23 h 9.537567 l 4.77197,-7.155831 z M 6.087822,5.1996585 17.88602,16.014141 13.955412,21.912178 h -7.86759 z"
+       id="deepin-dark-0-path982" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="deepin-dark-0-path867"
+       d="m 6,5 v 17 h 8 l 4,-6 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="1"
+       x="-0.93559998"
+       id="deepin-dark-0-rect22"
+       opacity="0.2"
+       fill="none"
+       height="24"
+       width="24" />
+  </g>
+</svg>
+<text class="label" x="80" y="140">default</text>
+<rect class="card" x="160" y="52" width="112" height="102" rx="12"/>
+<svg x="184" y="66" width="64" height="64" viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet">
+<sodipodi:namedview
+     inkscape:current-layer="svg40"
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:cy="13.96934"
+     inkscape:cx="17.432794"
+     inkscape:zoom="16.860077"
+     showgrid="true"
+     id="deepin-dark-1-namedview42"
+     inkscape:window-height="932"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#c8c8c8"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       id="deepin-dark-1-grid867"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="deepin-dark-1-metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="deepin-dark-1-defs22">
+    <style
+       type="text/css"
+       id="deepin-dark-1-current-color-scheme">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+    <style
+       id="deepin-dark-1-style5"
+       type="text/css" />
+    <style
+       id="deepin-dark-1-style7"
+       type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+    <style
+       id="deepin-dark-1-style9"
+       type="text/css" />
+    <style
+       id="deepin-dark-1-style11"
+       type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+    <style
+       id="deepin-dark-1-style13"
+       type="text/css" />
+    <style
+       id="deepin-dark-1-style15"
+       type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+    <style
+       id="deepin-dark-1-style17"
+       type="text/css" />
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.2084"
+       width="1.2829"
+       y="-.10421"
+       x="-.14143"
+       id="deepin-dark-1-filter1071-6">
+      <feGaussianBlur
+         id="deepin-dark-1-feGaussianBlur19"
+         stdDeviation="0.825" />
+    </filter>
+    <filter
+       id="deepin-dark-1-filter858"
+       style="color-interpolation-filters:sRGB"
+       width="1.126"
+       height="1.115"
+       x="-.06"
+       y="-.06">
+      <feGaussianBlur
+         id="deepin-dark-1-feGaussianBlur860"
+         stdDeviation=".525" />
+    </filter>
+    <filter
+       id="deepin-dark-1-filter826"
+       style="color-interpolation-filters:sRGB"
+       width="1.151"
+       height="1.137"
+       x="-.08"
+       y="-.07">
+      <feGaussianBlur
+         id="deepin-dark-1-feGaussianBlur828"
+         stdDeviation=".63" />
+    </filter>
+    <filter
+       id="deepin-dark-1-filter827"
+       style="color-interpolation-filters:sRGB"
+       width="1.201"
+       height="1.184"
+       x="-.1"
+       y="-.09">
+      <feGaussianBlur
+         id="deepin-dark-1-feGaussianBlur829"
+         stdDeviation=".92" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-1-filter874"
+       x="-0.11027017"
+       width="1.2205403"
+       y="-0.10582142"
+       height="1.2116428">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.93834097"
+         id="deepin-dark-1-feGaussianBlur876" />
+    </filter>
+  </defs>
+  <rect
+     id="deepin-dark-1-rect36"
+     opacity=".2"
+     fill="none"
+     height="24"
+     width="24"
+     y="-13.695"
+     x="39" />
+  <rect
+     id="deepin-dark-1-rect38"
+     opacity=".2"
+     fill="none"
+     height="24"
+     width="24"
+     y="-26"
+     x="-16" />
+  <path
+     transform="matrix(0.96282034,0,0,0.96282034,-24.250816,-759.80756)"
+     style="opacity:0.25;filter:url(#deepin-dark-1-filter874)"
+     d="m 40.5,795.51565 c -0.70833,0 -1.4025,0.34917 -1.84375,0.9375 C 38.215,797.04148 38,797.84898 38,798.76565 v 7 c -0.5529,-0.4091 -1.20332,-1.0332 -1.6875,-1.25 -0.97844,-0.43811 -1.87243,-0.52407 -2.59375,-0.3125 -1.44264,0.42314 -1.90625,1.8125 -1.90625,1.8125 l -0.21875,0.71875 0.625,0.4375 c 1.37572,0.92883 2.77007,3.20724 4.09375,5.3125 0.66184,1.05263 1.31432,2.03972 2.0625,2.84375 0.74818,0.80403 1.67183,1.47611 2.8125,1.46875 L 50,816.7657 l 0.90625,-0.0312 0.0937,-0.875 1,-10 c 0.14841,-1.4342 -0.72136,-2.65591 -1.84375,-3.03125 -0.54165,-0.18114 -1.16322,-0.0882 -1.71875,0.15625 -0.36471,-0.55879 -0.84191,-0.98136 -1.4375,-1.125 -0.50726,-0.12234 -1.04732,-0.0144 -1.53125,0.1875 -0.34754,-0.49621 -0.80181,-0.85745 -1.34375,-1.03125 -0.34899,-0.11192 -0.74694,-0.0251 -1.125,0.0312 v -2.28125 c 0,-0.91667 -0.215,-1.72417 -0.65625,-2.3125 -0.44125,-0.58833 -1.13542,-0.9375 -1.84375,-0.9375 z"
+     filter="url(#a)"
+     opacity="0.2"
+     id="deepin-dark-1-path854" />
+  <path
+     style="stroke-width:0.96282;fill:#ffffff;fill-opacity:1"
+     d="m 14.743408,4.7921425 c -0.681995,0 -1.350356,0.336188 -1.7752,0.9026441 -0.424845,0.5664561 -0.631851,1.3439335 -0.631851,2.226522 V 14.661051 C 11.804014,14.267161 11.177776,13.666265 10.711598,13.457526 9.7695357,13.035704 8.9087839,12.95294 8.2142823,13.156644 6.8252792,13.564052 6.3789061,14.901756 6.3789061,14.901756 l -0.210617,0.692027 0.6017627,0.421234 c 1.3245712,0.894297 2.6670798,3.087996 3.9415462,5.114983 0.637233,1.013494 1.265454,1.963884 1.985817,2.73802 0.720362,0.774137 1.609671,1.421229 2.707932,1.414143 l 8.484854,-0.03004 0.872556,-0.03004 0.09022,-0.842468 0.962821,-9.628203 c 0.142892,-1.380877 -0.694541,-2.557164 -1.7752,-2.918549 -0.521512,-0.174406 -1.119972,-0.08492 -1.654848,0.15044 -0.35115,-0.538014 -0.810608,-0.944873 -1.384054,-1.083173 -0.4884,-0.117791 -1.008381,-0.01386 -1.474319,0.180529 -0.334618,-0.477761 -0.771999,-0.82557 -1.29379,-0.992908 -0.336014,-0.1077592 -0.719169,-0.02426 -1.083173,0.03004 V 7.9213567 c 0,-0.8825885 -0.207006,-1.6600659 -0.63185,-2.226522 -0.424845,-0.5664561 -1.093206,-0.9026441 -1.7752,-0.9026441 z"
+     id="deepin-dark-1-path856" />
+  <path
+     d="M 14.744141 5.7421875 C 14.022025 5.7421875 13.298828 6.4639726 13.298828 7.9082031 L 13.298828 16.574219 C 8.4847267 11.760118 7.3046875 15.21875 7.3046875 15.21875 C 10.576072 17.42746 12.576836 24.350152 15.384766 24.332031 L 23.890625 24.277344 L 24.853516 14.648438 C 25.055468 12.696848 22.636344 11.884736 21.964844 13.685547 C 21.973544 11.521425 19.746757 11.250581 19.076172 12.722656 C 19.160132 10.934661 16.888164 10.242554 16.1875 11.759766 L 16.1875 7.9082031 C 16.1875 6.4639726 15.466256 5.7421875 14.744141 5.7421875 z "
+     style="stroke-width:0.96282;fill:#000000;fill-opacity:1"
+     id="deepin-dark-1-path858" />
+</svg>
+<text class="label" x="216" y="140">pointer</text>
+<rect class="card" x="296" y="52" width="112" height="102" rx="12"/>
+<svg x="320" y="66" width="64" height="64" viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet">
+<defs>
+  <filter id="deepin-dark-2-a" x="-.41143" y="-.16941" width="1.8229" height="1.3388" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.2"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 -1020.4)">
+  <g transform="translate(-258 864.36)">
+   <path d="m271 164v3h2v11h-2v3h7v-3h-2v-11h2v-3z" color="#000000" color-rendering="auto" filter="url(#deepin-dark-2-a)" image-rendering="auto" opacity=".35" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   <path d="m271 164v1h2v13h-2v1h5v-1h-2v-13h2v-1z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+   <path d="m271 164v1h2v13h-2v1h5v-1h-2v-13h2v-1z" fill="#151515"/>
+  </g>
+ </g>
+</svg>
+<text class="label" x="352" y="140">text</text>
+<rect class="card" x="432" y="52" width="112" height="102" rx="12"/>
+<svg x="456" y="66" width="64" height="64" viewBox="0 0 32 32.000001" preserveAspectRatio="xMidYMid meet">
+<defs
+     id="deepin-dark-3-defs4">
+    <linearGradient
+       id="deepin-dark-3-linearGradient-colour1"
+       y2="17.89324"
+       x2="17.871185"
+       y1="7.6685314"
+       x1="17.871185"
+       gradientTransform="matrix(1.0283134,0,0,0.98361153,343.32301,796.71719)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="deepin-dark-3-stop7"
+         offset="0%"
+         stop-color="#FBB114" />
+      <stop
+         id="deepin-dark-3-stop9"
+         offset="100%"
+         stop-color="#FF9508" />
+    </linearGradient>
+    <linearGradient
+       id="deepin-dark-3-linearGradient-colour2"
+       y2="19.256279"
+       x2="23.954397"
+       y1="8.6098804"
+       x1="23.954397"
+       gradientTransform="matrix(0.94465199,0,0,1.0707233,343.32301,796.71719)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="deepin-dark-3-stop12"
+         offset="0%"
+         stop-color="#FF645D" />
+      <stop
+         id="deepin-dark-3-stop14"
+         offset="100%"
+         stop-color="#FF4332" />
+    </linearGradient>
+    <linearGradient
+       id="deepin-dark-3-linearGradient-colour3"
+       y2="29.033293"
+       x2="20.12693"
+       y1="19.205147"
+       x1="20.12693"
+       gradientTransform="matrix(1.1037078,0,0,0.91642091,343.32301,796.71719)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="deepin-dark-3-stop17"
+         offset="0%"
+         stop-color="#CA70E1" />
+      <stop
+         id="deepin-dark-3-stop19"
+         offset="100%"
+         stop-color="#B452CB" />
+    </linearGradient>
+    <linearGradient
+       id="deepin-dark-3-linearGradient-colour4"
+       y2="28.117949"
+       x2="16.359619"
+       y1="17.89324"
+       x1="16.359619"
+       gradientTransform="matrix(1.0283134,0,0,0.98361158,343.32301,796.71719)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="deepin-dark-3-stop22"
+         offset="0%"
+         stop-color="#14ADF6" />
+      <stop
+         id="deepin-dark-3-stop24"
+         offset="100%"
+         stop-color="#1191F4" />
+    </linearGradient>
+    <linearGradient
+       id="deepin-dark-3-linearGradient-colour5"
+       y2="24.265087"
+       x2="13.307998"
+       y1="13.618688"
+       x1="13.307998"
+       gradientTransform="matrix(0.94465199,0,0,1.0707233,343.32301,796.71719)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="deepin-dark-3-stop27"
+         offset="0%"
+         stop-color="#52CF30" />
+      <stop
+         id="deepin-dark-3-stop29"
+         offset="100%"
+         stop-color="#3BBD1C" />
+    </linearGradient>
+    <linearGradient
+       id="deepin-dark-3-linearGradient-colour6"
+       y2="19.205147"
+       x2="11.765563"
+       y1="9.3769989"
+       x1="11.765563"
+       gradientTransform="matrix(1.1037078,0,0,0.91642092,343.32301,796.71719)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="deepin-dark-3-stop32"
+         offset="0%"
+         stop-color="#FFD305" />
+      <stop
+         id="deepin-dark-3-stop34"
+         offset="100%"
+         stop-color="#FDCF01" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="deepin-dark-3-filter7466-5"
+       x="-0.1284"
+       width="1.2568001"
+       y="-0.1284"
+       height="1.2568001"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.177"
+         id="deepin-dark-3-feGaussianBlur7468-9" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:window-height="932"
+     inkscape:window-width="1920"
+     inkscape:document-rotation="0"
+     units="px"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="16.26029"
+     inkscape:cx="15.946227"
+     inkscape:zoom="15.839192"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#dcdcdc"
+     id="deepin-dark-3-base" />
+  <metadata
+     id="deepin-dark-3-metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1020.3622)"
+     id="deepin-dark-3-layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;filter:url(#deepin-dark-3-filter7466-5);enable-background:accumulate"
+       d="m 16.0748,1026.3004 c -6.07513,0 -11,4.9249 -11,11 0,6.0751 4.92487,11 11,11 6.07513,0 11,-4.9249 11,-11 0,-6.0751 -4.92487,-11 -11,-11 z"
+       id="deepin-dark-3-path7460-6-2" />
+    <g
+       transform="translate(-75,1019.3622)"
+       id="deepin-dark-3-g2549">
+      <circle
+         r="11"
+         cy="17"
+         cx="91"
+         id="deepin-dark-3-circle2537"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.31797;stroke-linecap:round" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke-width:0.289063;stroke-linecap:round"
+         id="deepin-dark-3-circle2539"
+         cx="91"
+         cy="17"
+         r="10" />
+      <path
+         d="m 90.15625,13 c -2.7769,-0.07537 -5.582965,1.884696 -9.138672,3.421875 A 10,10 0 0 0 81,17 10,10 0 0 0 91,27 10,10 0 0 0 101,17 10,10 0 0 0 101,16.97461 C 96.7012,16.614724 93.970425,13.153032 90.15625,13 Z"
+         style="fill:#025ee8;fill-opacity:1;stroke-width:0.289063;stroke-linecap:round"
+         id="deepin-dark-3-path2541" />
+      <path
+         d="m 85.085938,18.205078 c -1.173144,-0.02574 -2.457022,0.163177 -3.908204,0.675781 A 10,10 0 0 0 91,27 10,10 0 0 0 100.38281,20.457031 C 93.770531,23.29333 90.701135,18.328279 85.085938,18.205078 Z"
+         style="fill:#2ca7f8;fill-opacity:1;stroke-width:0.289063;stroke-linecap:round"
+         id="deepin-dark-3-path2543" />
+    </g>
+  </g>
+</svg>
+<text class="label" x="488" y="140">wait</text>
+<rect class="card" x="24" y="176" width="112" height="102" rx="12"/>
+<svg x="48" y="190" width="64" height="64" viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet">
+<sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     id="deepin-dark-4-namedview34"
+     showgrid="true"
+     inkscape:zoom="16.860077"
+     inkscape:cx="17.104189"
+     inkscape:cy="12.520441"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32">
+    <inkscape:grid
+       type="xygrid"
+       id="deepin-dark-4-grid859" />
+  </sodipodi:namedview>
+  <metadata
+     id="deepin-dark-4-metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="deepin-dark-4-defs10">
+    <filter
+       id="deepin-dark-4-b-7"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-4-feGaussianBlur4" />
+    </filter>
+    <filter
+       id="deepin-dark-4-filter892"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.65"
+         id="deepin-dark-4-feGaussianBlur7" />
+    </filter>
+    <filter
+       id="deepin-dark-4-b-7-5629127093"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-4-feGaussianBlur4-60" />
+    </filter>
+    <filter
+       id="deepin-dark-4-filter892-62"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.65"
+         id="deepin-dark-4-feGaussianBlur7-61" />
+    </filter>
+    <filter
+       id="deepin-dark-4-b-7-562912709"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-4-feGaussianBlur4-3" />
+    </filter>
+    <filter
+       id="deepin-dark-4-filter892-606"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.65"
+         id="deepin-dark-4-feGaussianBlur7-26" />
+    </filter>
+    <filter
+       id="deepin-dark-4-b-7-56291270"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-4-feGaussianBlur4-93" />
+    </filter>
+    <filter
+       id="deepin-dark-4-filter892-60"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.65"
+         id="deepin-dark-4-feGaussianBlur7-62" />
+    </filter>
+    <filter
+       id="deepin-dark-4-b-7-5629127"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-4-feGaussianBlur4-0" />
+    </filter>
+    <filter
+       id="deepin-dark-4-filter892-936"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.65"
+         id="deepin-dark-4-feGaussianBlur7-0" />
+    </filter>
+    <filter
+       id="deepin-dark-4-b-7-562912"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-4-feGaussianBlur4-70" />
+    </filter>
+    <filter
+       id="deepin-dark-4-filter892-93"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.65"
+         id="deepin-dark-4-feGaussianBlur7-6" />
+    </filter>
+    <linearGradient
+       id="deepin-dark-4-linearGradient-colour1"
+       y2="17.89324"
+       x2="17.871185"
+       y1="7.6685314"
+       x1="17.871185"
+       gradientTransform="matrix(1.0283134,0,0,0.98361153,343.32301,796.71719)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="deepin-dark-4-stop7"
+         offset="0%"
+         stop-color="#FBB114" />
+      <stop
+         id="deepin-dark-4-stop9"
+         offset="100%"
+         stop-color="#FF9508" />
+    </linearGradient>
+    <linearGradient
+       id="deepin-dark-4-linearGradient-colour2"
+       y2="19.256279"
+       x2="23.954397"
+       y1="8.6098804"
+       x1="23.954397"
+       gradientTransform="matrix(0.94465199,0,0,1.0707233,343.32301,796.71719)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="deepin-dark-4-stop12"
+         offset="0%"
+         stop-color="#FF645D" />
+      <stop
+         id="deepin-dark-4-stop14"
+         offset="100%"
+         stop-color="#FF4332" />
+    </linearGradient>
+    <linearGradient
+       id="deepin-dark-4-linearGradient-colour3"
+       y2="29.033293"
+       x2="20.12693"
+       y1="19.205147"
+       x1="20.12693"
+       gradientTransform="matrix(1.1037078,0,0,0.91642091,343.32301,796.71719)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="deepin-dark-4-stop17"
+         offset="0%"
+         stop-color="#CA70E1" />
+      <stop
+         id="deepin-dark-4-stop19"
+         offset="100%"
+         stop-color="#B452CB" />
+    </linearGradient>
+    <linearGradient
+       id="deepin-dark-4-linearGradient-colour4"
+       y2="28.117949"
+       x2="16.359619"
+       y1="17.89324"
+       x1="16.359619"
+       gradientTransform="matrix(1.0283134,0,0,0.98361158,343.32301,796.71719)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="deepin-dark-4-stop22"
+         offset="0%"
+         stop-color="#14ADF6" />
+      <stop
+         id="deepin-dark-4-stop24"
+         offset="100%"
+         stop-color="#1191F4" />
+    </linearGradient>
+    <linearGradient
+       id="deepin-dark-4-linearGradient-colour5"
+       y2="24.265087"
+       x2="13.307998"
+       y1="13.618688"
+       x1="13.307998"
+       gradientTransform="matrix(0.94465199,0,0,1.0707233,343.32301,796.71719)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="deepin-dark-4-stop27"
+         offset="0%"
+         stop-color="#52CF30" />
+      <stop
+         id="deepin-dark-4-stop29"
+         offset="100%"
+         stop-color="#3BBD1C" />
+    </linearGradient>
+    <linearGradient
+       id="deepin-dark-4-linearGradient-colour6"
+       y2="19.205147"
+       x2="11.765563"
+       y1="9.3769989"
+       x1="11.765563"
+       gradientTransform="matrix(1.1037078,0,0,0.91642092,343.32301,796.71719)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="deepin-dark-4-stop32"
+         offset="0%"
+         stop-color="#FFD305" />
+      <stop
+         id="deepin-dark-4-stop34"
+         offset="100%"
+         stop-color="#FDCF01" />
+    </linearGradient>
+    <filter
+       id="deepin-dark-4-b-7-56291"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-4-feGaussianBlur4-27" />
+    </filter>
+    <filter
+       id="deepin-dark-4-filter892-0"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.65"
+         id="deepin-dark-4-feGaussianBlur7-93" />
+    </filter>
+    <filter
+       id="deepin-dark-4-b-7-5629"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-4-feGaussianBlur4-1" />
+    </filter>
+    <filter
+       id="deepin-dark-4-filter892-2"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.65"
+         id="deepin-dark-4-feGaussianBlur7-70" />
+    </filter>
+    <filter
+       id="deepin-dark-4-b-7-562"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-4-feGaussianBlur4-9" />
+    </filter>
+    <filter
+       id="deepin-dark-4-filter892-12"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.65"
+         id="deepin-dark-4-feGaussianBlur7-7" />
+    </filter>
+    <filter
+       id="deepin-dark-4-b-7-56"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-4-feGaussianBlur4-29" />
+    </filter>
+    <filter
+       id="deepin-dark-4-filter892-1"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.65"
+         id="deepin-dark-4-feGaussianBlur7-2" />
+    </filter>
+    <filter
+       id="deepin-dark-4-b-7-5"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-4-feGaussianBlur4-62" />
+    </filter>
+    <filter
+       id="deepin-dark-4-filter892-9"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.65"
+         id="deepin-dark-4-feGaussianBlur7-12" />
+    </filter>
+    <filter
+       id="deepin-dark-4-b-7-3"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-4-feGaussianBlur4-75" />
+    </filter>
+    <filter
+       id="deepin-dark-4-filter892-6"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.65"
+         id="deepin-dark-4-feGaussianBlur7-3" />
+    </filter>
+    <filter
+       id="deepin-dark-4-a-3-3"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.64999976"
+         id="deepin-dark-4-feGaussianBlur4-7" />
+    </filter>
+    <filter
+       id="deepin-dark-4-b-7-6"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-4-feGaussianBlur7-5" />
+    </filter>
+    <filter
+       id="deepin-dark-4-a-3-3-5"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.64999976"
+         id="deepin-dark-4-feGaussianBlur4-6" />
+    </filter>
+    <filter
+       id="deepin-dark-4-b-7-6-2"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-4-feGaussianBlur7-9" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.1907"
+       width="1.3236"
+       y="-.095361"
+       x="-.16181"
+       id="deepin-dark-4-b">
+      <feGaussianBlur
+         id="deepin-dark-4-feGaussianBlur871"
+         stdDeviation="0.62797713" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="deepin-dark-4-a">
+      <feGaussianBlur
+         id="deepin-dark-4-feGaussianBlur874"
+         stdDeviation="0.64999976" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="deepin-dark-4-a-3-3-2">
+      <feGaussianBlur
+         id="deepin-dark-4-feGaussianBlur916"
+         stdDeviation="0.64999976" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.1907"
+       width="1.3236"
+       y="-.095361"
+       x="-.16181"
+       id="deepin-dark-4-b-7-6-7">
+      <feGaussianBlur
+         id="deepin-dark-4-feGaussianBlur919"
+         stdDeviation="0.62797713" />
+    </filter>
+    <filter
+       id="deepin-dark-4-a-3-3-6"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.64999976"
+         id="deepin-dark-4-feGaussianBlur4-2" />
+    </filter>
+    <filter
+       id="deepin-dark-4-b-7-6-9"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-4-feGaussianBlur7-1" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.1907"
+       width="1.3236"
+       y="-.095361"
+       x="-.16181"
+       id="deepin-dark-4-b-2">
+      <feGaussianBlur
+         id="deepin-dark-4-feGaussianBlur871-7"
+         stdDeviation="0.62797713" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="deepin-dark-4-a-0">
+      <feGaussianBlur
+         id="deepin-dark-4-feGaussianBlur874-9"
+         stdDeviation="0.64999976" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-4-filter1090-3"
+       x="-0.1305"
+       width="1.261"
+       y="-0.092117647"
+       height="1.1842353">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.6525"
+         id="deepin-dark-4-feGaussianBlur1092-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-4-filter1261"
+       x="-0.108"
+       width="1.216"
+       y="-0.108"
+       height="1.216">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.675"
+         id="deepin-dark-4-feGaussianBlur1263" />
+    </filter>
+  </defs>
+  <g
+     transform="matrix(0.70000002,0,0,0.70000002,-26.183424,9.8275228)"
+     id="deepin-dark-4-g1228">
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="deepin-dark-4-path1220"
+       d="M 45.976319,-4.4624617 V 12.537538 h 8 l 4,-6 z"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#deepin-dark-4-filter1090-3)" />
+    <path
+       id="deepin-dark-4-path1222"
+       d="m 44.976319,-9.1698986 v 1.236548 19.0368896 h 9.537567 l 4.77197,-7.155831 z m 1.087822,2.4730961 11.798198,10.8144825 -3.930608,5.898037 h -7.86759 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.857143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 45.976319,-6.896461 v 17 h 8 l 4,-6 z"
+       id="deepin-dark-4-path1224"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       width="24"
+       height="24"
+       fill="none"
+       opacity="0.2"
+       id="deepin-dark-4-rect1226"
+       x="39.040718"
+       y="-10.896461" />
+  </g>
+  <circle
+     r="7.5"
+     cy="19.8367"
+     cx="12.340035"
+     id="deepin-dark-4-circle1259"
+     style="opacity:0.35;fill:#000000;fill-opacity:1;stroke-width:0.216798;stroke-linecap:round;filter:url(#deepin-dark-4-filter1261)" />
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.216798;stroke-linecap:round"
+     id="deepin-dark-4-circle1232"
+     cx="12.340035"
+     cy="19.2167"
+     r="7.5" />
+  <g
+     id="deepin-dark-4-g1123"
+     transform="matrix(0.64999974,0,0,0.64999974,-16.25996,3.6001921)">
+    <circle
+       r="10"
+       cy="24.0254"
+       cx="44"
+       id="deepin-dark-4-circle2539"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.289063;stroke-linecap:round" />
+    <path
+       id="deepin-dark-4-path2541"
+       style="fill:#025ee8;fill-opacity:1;stroke-width:0.289063;stroke-linecap:round"
+       d="m 43.15625,20.0254 c -2.7769,-0.07537 -5.582965,1.884696 -9.138672,3.421875 A 10,10 0 0 0 34,24.0254 a 10,10 0 0 0 10,10 10,10 0 0 0 10,-10 10,10 0 0 0 0,-0.02539 C 49.7012,23.640124 46.970425,20.178432 43.15625,20.0254 Z" />
+    <path
+       id="deepin-dark-4-path2543"
+       style="fill:#2ca7f8;fill-opacity:1;stroke-width:0.289063;stroke-linecap:round"
+       d="m 38.085938,25.230478 c -1.173144,-0.02574 -2.457022,0.163177 -3.908204,0.675781 A 10,10 0 0 0 44,34.0254 10,10 0 0 0 53.38281,27.482431 C 46.770531,30.31873 43.701135,25.353679 38.085938,25.230478 Z" />
+  </g>
+</svg>
+<text class="label" x="80" y="264">progress</text>
+<rect class="card" x="160" y="176" width="112" height="102" rx="12"/>
+<svg x="184" y="190" width="64" height="64" viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet">
+<sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     id="deepin-dark-5-namedview19"
+     showgrid="true"
+     inkscape:zoom="16.860077"
+     inkscape:cx="0.85444309"
+     inkscape:cy="13.387892"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17">
+    <inkscape:grid
+       type="xygrid"
+       id="deepin-dark-5-grid844" />
+  </sodipodi:namedview>
+  <metadata
+     id="deepin-dark-5-metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="deepin-dark-5-defs7">
+    <filter
+       id="deepin-dark-5-a-3"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.9"
+         id="deepin-dark-5-feGaussianBlur4" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-5-filter930"
+       x="-0.567"
+       width="2.134"
+       y="-0.2268"
+       height="1.4536">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.945"
+         id="deepin-dark-5-feGaussianBlur932" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-5-filter934"
+       x="-0.567"
+       width="2.134"
+       y="-0.2268"
+       height="1.4536">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.945"
+         id="deepin-dark-5-feGaussianBlur936" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-5-filter938"
+       x="-0.2268"
+       width="1.4536"
+       y="-0.567"
+       height="2.134">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.945"
+         id="deepin-dark-5-feGaussianBlur940" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-5-filter942"
+       x="-0.2268"
+       width="1.4536"
+       y="-0.567"
+       height="2.134">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.945"
+         id="deepin-dark-5-feGaussianBlur944" />
+    </filter>
+  </defs>
+  <g
+     id="deepin-dark-5-g1184">
+    <g
+       style="opacity:0.25;fill:#000000;fill-opacity:1;filter:url(#deepin-dark-5-filter942)"
+       id="deepin-dark-5-g904"
+       transform="translate(16,1.5)">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke-width:1.51168;stroke-linecap:round"
+         id="deepin-dark-5-rect898"
+         width="7.9981799"
+         height="4"
+         x="-10"
+         y="14" />
+      <rect
+         y="15"
+         x="-9"
+         height="2"
+         width="7"
+         id="deepin-dark-5-rect900"
+         style="fill:#000000;fill-opacity:1;stroke-linecap:round" />
+      <path
+         id="deepin-dark-5-path902"
+         d="m -2,14 2,2 -2,2 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       style="opacity:0.25;fill:#000000;fill-opacity:1;filter:url(#deepin-dark-5-filter938)"
+       transform="matrix(-1,0,0,1,18,1.5)"
+       id="deepin-dark-5-g912">
+      <rect
+         y="14"
+         x="-10"
+         height="4"
+         width="7.9981799"
+         id="deepin-dark-5-rect906"
+         style="fill:#000000;fill-opacity:1;stroke-width:1.51168;stroke-linecap:round" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke-linecap:round"
+         id="deepin-dark-5-rect908"
+         width="7"
+         height="2"
+         x="-9"
+         y="15" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -2,14 2,2 -2,2 z"
+         id="deepin-dark-5-path910" />
+    </g>
+    <g
+       transform="translate(24.5,1)"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;filter:url(#deepin-dark-5-filter934)"
+       id="deepin-dark-5-g920">
+      <rect
+         transform="rotate(90)"
+         y="5.5"
+         x="5.5"
+         height="4"
+         width="7.9981799"
+         id="deepin-dark-5-rect914"
+         style="fill:#000000;fill-opacity:1;stroke-width:1.51168;stroke-linecap:round" />
+      <rect
+         transform="rotate(90)"
+         style="fill:#000000;fill-opacity:1;stroke-linecap:round"
+         id="deepin-dark-5-rect916"
+         width="7"
+         height="2"
+         x="6.5"
+         y="6.5" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -5.5,13.5 -2,2 -2,-2 z"
+         id="deepin-dark-5-path918" />
+    </g>
+    <g
+       transform="translate(24.5,2)"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;filter:url(#deepin-dark-5-filter930)"
+       id="deepin-dark-5-g928">
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         style="fill:#000000;fill-opacity:1;stroke-width:1.51168;stroke-linecap:round"
+         id="deepin-dark-5-rect922"
+         width="7.9981799"
+         height="4"
+         x="-26.5"
+         y="5.5" />
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         y="6.5"
+         x="-25.5"
+         height="2"
+         width="7"
+         id="deepin-dark-5-rect924"
+         style="fill:#000000;fill-opacity:1;stroke-linecap:round" />
+      <path
+         id="deepin-dark-5-path926"
+         d="m -5.5,18.5 -2,-2 -2,2 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(15)"
+       id="deepin-dark-5-g856">
+      <rect
+         y="14"
+         x="-10"
+         height="4"
+         width="7.9981799"
+         id="deepin-dark-5-rect848"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.51168;stroke-linecap:round" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke-linecap:round"
+         id="deepin-dark-5-rect846"
+         width="7"
+         height="2"
+         x="-9"
+         y="15" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -2,14 2,2 -2,2 z"
+         id="deepin-dark-5-path851" />
+    </g>
+    <g
+       id="deepin-dark-5-g864"
+       transform="matrix(-1,0,0,1,17,0)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.51168;stroke-linecap:round"
+         id="deepin-dark-5-rect858"
+         width="7.9981799"
+         height="4"
+         x="-10"
+         y="14" />
+      <rect
+         y="15"
+         x="-9"
+         height="2"
+         width="7"
+         id="deepin-dark-5-rect860"
+         style="fill:#000000;fill-opacity:1;stroke-linecap:round" />
+      <path
+         id="deepin-dark-5-path862"
+         d="m -2,14 2,2 -2,2 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(23.5,-0.5)"
+       id="deepin-dark-5-g891">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.51168;stroke-linecap:round"
+         id="deepin-dark-5-rect866"
+         width="7.9981799"
+         height="4"
+         x="5.5"
+         y="5.5"
+         transform="rotate(90)" />
+      <rect
+         y="6.5"
+         x="6.5"
+         height="2"
+         width="7"
+         id="deepin-dark-5-rect868"
+         style="fill:#000000;fill-opacity:1;stroke-linecap:round"
+         transform="rotate(90)" />
+      <path
+         id="deepin-dark-5-path870"
+         d="m -5.5,13.5 -2,2 -2,-2 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(23.5,0.5)"
+       id="deepin-dark-5-g896">
+      <rect
+         y="5.5"
+         x="-26.5"
+         height="4"
+         width="7.9981799"
+         id="deepin-dark-5-rect874"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.51168;stroke-linecap:round"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke-linecap:round"
+         id="deepin-dark-5-rect876"
+         width="7"
+         height="2"
+         x="-25.5"
+         y="6.5"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -5.5,18.5 -2,-2 -2,2 z"
+         id="deepin-dark-5-path878" />
+    </g>
+  </g>
+</svg>
+<text class="label" x="216" y="264">crosshair</text>
+<rect class="card" x="296" y="176" width="112" height="102" rx="12"/>
+<svg x="320" y="190" width="64" height="64" viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet">
+<defs
+     id="deepin-dark-6-defs5772">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       height="1.2568001"
+       y="-0.1284"
+       width="1.2568001"
+       x="-0.1284"
+       id="deepin-dark-6-filter7438"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="deepin-dark-6-feGaussianBlur7440"
+         stdDeviation="1.177"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="deepin-dark-6-a-3">
+      <feGaussianBlur
+         id="deepin-dark-6-feGaussianBlur4"
+         stdDeviation="0.64999976" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.1907"
+       width="1.3236"
+       y="-.095361"
+       x="-.16181"
+       id="deepin-dark-6-b-7">
+      <feGaussianBlur
+         id="deepin-dark-6-feGaussianBlur7"
+         stdDeviation="0.62797713" />
+    </filter>
+    <filter
+       id="deepin-dark-6-a-3-3"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.64999976"
+         id="deepin-dark-6-feGaussianBlur861" />
+    </filter>
+    <filter
+       id="deepin-dark-6-b-7-6"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-6-feGaussianBlur864" />
+    </filter>
+    <filter
+       id="deepin-dark-6-a-3-3-75"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.64999976"
+         id="deepin-dark-6-feGaussianBlur4-3" />
+    </filter>
+    <filter
+       id="deepin-dark-6-b-7-6-5"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-6-feGaussianBlur7-6" />
+    </filter>
+    <filter
+       id="deepin-dark-6-a-3-3-7"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.64999976"
+         id="deepin-dark-6-feGaussianBlur4-5" />
+    </filter>
+    <filter
+       id="deepin-dark-6-b-7-6-3"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-6-feGaussianBlur7-5" />
+    </filter>
+    <filter
+       id="deepin-dark-6-a-3-3-5"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.64999976"
+         id="deepin-dark-6-feGaussianBlur4-6" />
+    </filter>
+    <filter
+       id="deepin-dark-6-b-7-6-2"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-6-feGaussianBlur7-9" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.1907"
+       width="1.3236"
+       y="-.095361"
+       x="-.16181"
+       id="deepin-dark-6-b">
+      <feGaussianBlur
+         id="deepin-dark-6-feGaussianBlur871"
+         stdDeviation="0.62797713" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="deepin-dark-6-a">
+      <feGaussianBlur
+         id="deepin-dark-6-feGaussianBlur874"
+         stdDeviation="0.64999976" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="deepin-dark-6-a-3-3-2">
+      <feGaussianBlur
+         id="deepin-dark-6-feGaussianBlur916"
+         stdDeviation="0.64999976" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.1907"
+       width="1.3236"
+       y="-.095361"
+       x="-.16181"
+       id="deepin-dark-6-b-7-6-7">
+      <feGaussianBlur
+         id="deepin-dark-6-feGaussianBlur919"
+         stdDeviation="0.62797713" />
+    </filter>
+    <filter
+       id="deepin-dark-6-b-9"
+       x="-.222"
+       y="-.222"
+       width="1.444"
+       height="1.444"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.2025"
+         id="deepin-dark-6-feGaussianBlur4-1" />
+    </filter>
+    <style
+       id="deepin-dark-6-current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+    <style
+       type="text/css"
+       id="deepin-dark-6-style8" />
+    <style
+       type="text/css"
+       id="deepin-dark-6-style10">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+    <style
+       type="text/css"
+       id="deepin-dark-6-style12" />
+    <filter
+       id="deepin-dark-6-filter1113-7"
+       x="-.27429"
+       y="-.21333"
+       width="1.5486"
+       height="1.4267"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.6"
+         id="deepin-dark-6-feGaussianBlur14" />
+    </filter>
+    <style
+       id="deepin-dark-6-current-color-scheme-6"
+       type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+    <style
+       type="text/css"
+       id="deepin-dark-6-style5" />
+    <style
+       type="text/css"
+       id="deepin-dark-6-style7">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+    <style
+       type="text/css"
+       id="deepin-dark-6-style9" />
+    <filter
+       id="deepin-dark-6-filter1113-6"
+       x="-.27429"
+       y="-.21333"
+       width="1.5486"
+       height="1.4267"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.6"
+         id="deepin-dark-6-feGaussianBlur11" />
+    </filter>
+    <filter
+       y="-.05"
+       x="-.05"
+       height="1.094"
+       width="1.098"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-6-filter852">
+      <feGaussianBlur
+         stdDeviation=".43"
+         id="deepin-dark-6-feGaussianBlur854" />
+    </filter>
+    <filter
+       y="-.05"
+       x="-.05"
+       height="1.094"
+       width="1.098"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-6-filter901">
+      <feGaussianBlur
+         stdDeviation=".43"
+         id="deepin-dark-6-feGaussianBlur903" />
+    </filter>
+    <filter
+       y="-.06"
+       x="-.06"
+       height="1.117"
+       width="1.123"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-6-filter854">
+      <feGaussianBlur
+         stdDeviation=".538"
+         id="deepin-dark-6-feGaussianBlur856" />
+    </filter>
+    <filter
+       y="-.07"
+       x="-.07"
+       height="1.141"
+       width="1.147"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-6-filter829">
+      <feGaussianBlur
+         stdDeviation=".645"
+         id="deepin-dark-6-feGaussianBlur831" />
+    </filter>
+    <filter
+       y="-.09"
+       x="-.1"
+       height="1.187"
+       width="1.197"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-6-filter830">
+      <feGaussianBlur
+         stdDeviation=".74"
+         id="deepin-dark-6-feGaussianBlur832" />
+    </filter>
+    <filter
+       y="-.05"
+       x="-.05"
+       height="1.094"
+       width="1.098"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-6-filter852-3">
+      <feGaussianBlur
+         stdDeviation=".43"
+         id="deepin-dark-6-feGaussianBlur854-6" />
+    </filter>
+    <filter
+       y="-.05"
+       x="-.05"
+       height="1.094"
+       width="1.098"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-6-filter901-7">
+      <feGaussianBlur
+         stdDeviation=".43"
+         id="deepin-dark-6-feGaussianBlur903-5" />
+    </filter>
+    <filter
+       y="-.06"
+       x="-.06"
+       height="1.117"
+       width="1.123"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-6-filter854-3">
+      <feGaussianBlur
+         stdDeviation=".538"
+         id="deepin-dark-6-feGaussianBlur856-5" />
+    </filter>
+    <filter
+       y="-.07"
+       x="-.07"
+       height="1.141"
+       width="1.147"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-6-filter829-6">
+      <feGaussianBlur
+         stdDeviation=".645"
+         id="deepin-dark-6-feGaussianBlur831-2" />
+    </filter>
+    <filter
+       y="-.09"
+       x="-.1"
+       height="1.187"
+       width="1.197"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-6-filter830-9">
+      <feGaussianBlur
+         stdDeviation=".74"
+         id="deepin-dark-6-feGaussianBlur832-1" />
+    </filter>
+    <filter
+       id="deepin-dark-6-a-3-3-27"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.64999976"
+         id="deepin-dark-6-feGaussianBlur4-5-0" />
+    </filter>
+    <filter
+       id="deepin-dark-6-b-7-6-9"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-6-feGaussianBlur7-3" />
+    </filter>
+    <filter
+       id="deepin-dark-6-a-3-3-5-6"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.64999976"
+         id="deepin-dark-6-feGaussianBlur4-6-0" />
+    </filter>
+    <filter
+       id="deepin-dark-6-b-7-6-2-6"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-6-feGaussianBlur7-9-2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.1907"
+       width="1.3236"
+       y="-.095361"
+       x="-.16181"
+       id="deepin-dark-6-b-3">
+      <feGaussianBlur
+         id="deepin-dark-6-feGaussianBlur871-6"
+         stdDeviation="0.62797713" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="deepin-dark-6-a-1">
+      <feGaussianBlur
+         id="deepin-dark-6-feGaussianBlur874-8"
+         stdDeviation="0.64999976" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="deepin-dark-6-a-3-3-2-2">
+      <feGaussianBlur
+         id="deepin-dark-6-feGaussianBlur916-0"
+         stdDeviation="0.64999976" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.1907"
+       width="1.3236"
+       y="-.095361"
+       x="-.16181"
+       id="deepin-dark-6-b-7-6-7-2">
+      <feGaussianBlur
+         id="deepin-dark-6-feGaussianBlur919-3"
+         stdDeviation="0.62797713" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="deepin-dark-6-base"
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.836083"
+     inkscape:cx="13.225073"
+     inkscape:cy="11.137214"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="deepin-dark-6-grid836" />
+  </sodipodi:namedview>
+  <metadata
+     id="deepin-dark-6-metadata5775">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="deepin-dark-6-layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       id="deepin-dark-6-g1046">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;filter:url(#deepin-dark-6-filter7438);enable-background:accumulate"
+         d="m 16.0748,5.9382 c -6.07513,0 -11,4.92487 -11,11 0,6.07513 4.92487,11 11,11 6.07513,0 11,-4.92487 11,-11 0,-6.07513 -4.92487,-11 -11,-11 z"
+         id="deepin-dark-6-path7460"
+         inkscape:connector-curvature="0" />
+      <circle
+         r="11"
+         cy="16"
+         cx="16"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="deepin-dark-6-path4734" />
+      <circle
+         id="deepin-dark-6-circle1036"
+         style="fill:#fa1919;fill-opacity:1;stroke:none;stroke-width:0.909091"
+         cx="16"
+         cy="16"
+         r="10" />
+      <rect
+         transform="rotate(-30)"
+         y="20.856407"
+         x="-0.14359362"
+         height="2"
+         width="12"
+         id="deepin-dark-6-rect1040"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.191;stroke-linecap:round" />
+    </g>
+  </g>
+</svg>
+<text class="label" x="352" y="264">not-allowed</text>
+<rect class="card" x="432" y="176" width="112" height="102" rx="12"/>
+<svg x="456" y="190" width="64" height="64" viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet">
+<sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     id="deepin-dark-7-namedview30"
+     showgrid="true"
+     inkscape:zoom="16.860077"
+     inkscape:cx="19.445946"
+     inkscape:cy="15.145122"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28">
+    <inkscape:grid
+       type="xygrid"
+       id="deepin-dark-7-grid855" />
+  </sodipodi:namedview>
+  <metadata
+     id="deepin-dark-7-metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="deepin-dark-7-defs14">
+    <style
+       id="deepin-dark-7-current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+    <style
+       type="text/css"
+       id="deepin-dark-7-style5" />
+    <style
+       type="text/css"
+       id="deepin-dark-7-style7">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+    <style
+       type="text/css"
+       id="deepin-dark-7-style9" />
+    <filter
+       id="deepin-dark-7-filter1044-6"
+       x="-.2593"
+       y="-.22337"
+       width="1.5186"
+       height="1.4467"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.7683628"
+         id="deepin-dark-7-feGaussianBlur11" />
+    </filter>
+    <filter
+       y="-.05"
+       x="-.05"
+       height="1.094"
+       width="1.098"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-7-filter852">
+      <feGaussianBlur
+         stdDeviation=".43"
+         id="deepin-dark-7-feGaussianBlur854" />
+    </filter>
+    <filter
+       y="-.05"
+       x="-.05"
+       height="1.094"
+       width="1.098"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-7-filter901">
+      <feGaussianBlur
+         stdDeviation=".43"
+         id="deepin-dark-7-feGaussianBlur903" />
+    </filter>
+    <filter
+       y="-.06"
+       x="-.06"
+       height="1.117"
+       width="1.123"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-7-filter854">
+      <feGaussianBlur
+         stdDeviation=".538"
+         id="deepin-dark-7-feGaussianBlur856" />
+    </filter>
+    <filter
+       y="-.07"
+       x="-.07"
+       height="1.141"
+       width="1.147"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-7-filter829">
+      <feGaussianBlur
+         stdDeviation=".645"
+         id="deepin-dark-7-feGaussianBlur831" />
+    </filter>
+    <filter
+       y="-.09"
+       x="-.1"
+       height="1.188"
+       width="1.196"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-7-filter830">
+      <feGaussianBlur
+         stdDeviation=".94"
+         id="deepin-dark-7-feGaussianBlur832" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-7-filter874"
+       x="-0.10957952"
+       width="1.219159"
+       y="-0.10646537"
+       height="1.2129307">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0011259"
+         id="deepin-dark-7-feGaussianBlur876" />
+    </filter>
+  </defs>
+  <path
+     transform="matrix(0.89780151,0,0,0.89780151,-64.404483,-712.76479)"
+     style="opacity:0.25;filter:url(#deepin-dark-7-filter874)"
+     d="m 93.84375,800.4429 c -0.85159,0.0527 -1.43383,0.60204 -1.84375,1.28125 -0.44724,-1.66912 -3.6161,-1.77198 -4.25,0.59375 -0.4981,-0.55045 -1.13632,-0.93341 -1.9375,-0.875 h -0.0312 c -1.46508,0.13173 -2.5009,1.45686 -2.25,2.90625 l 1.25,7.46875 c -0.47313,-0.33329 -1.04683,-0.90472 -1.46875,-1.09375 -0.97777,-0.43807 -1.87284,-0.49328 -2.59375,-0.28125 -1.44181,0.42406 -1.875,1.8125 -1.875,1.8125 l -0.25,0.71875 0.625,0.4375 c 1.37655,0.9294 2.77436,3.18257 4.09375,5.28125 0.6597,1.04934 1.31566,2.04201 2.0625,2.84375 0.74684,0.80174 1.64211,1.4761 2.78125,1.46875 L 97,822.9742 h 0.96875 l 0.0312,-0.96875 c 0,0 0.0891,-1.74487 0.25,-3.8125 0.16094,-2.06763 0.40995,-4.47777 0.6875,-5.59375 l 1.5,-6.03125 c 0.43258,-1.65686 -0.88604,-3.25171 -2.59375,-3.125 -0.5241,0.03 -0.98628,0.26119 -1.375,0.5625 L 96.5,803.0992 c 0.0978,-1.51371 -1.14254,-2.75404 -2.65625,-2.65625 z"
+     filter="url(#a)"
+     opacity="0.2"
+     id="deepin-dark-7-path854" />
+  <path
+     style="stroke-width:0.897802;fill:#ffffff;fill-opacity:1"
+     d="M 14.3776,6.1217128 C 13.930405,5.627518 13.35741,5.2836959 12.638109,5.3361365 h -0.02801 c -1.315351,0.1182674 -2.245312,1.3079711 -2.020054,2.6092357 l 1.122252,6.7054548 C 11.287519,14.351599 10.772451,13.838568 10.39365,13.668857 9.5158068,13.275557 8.7122116,13.225989 8.0649775,13.41635 6.7705183,13.797072 6.3815997,15.043615 6.3815997,15.043615 l -0.2244504,0.645295 0.561126,0.392788 c 1.2358686,0.834417 2.4908246,2.857316 3.6753747,4.741515 0.59228,0.942099 1.181202,1.833319 1.851716,2.553123 0.670514,0.719803 1.474289,1.325244 2.49701,1.318646 l 7.939887,-0.02801 h 0.869746 l 0.02801,-0.869745 c 0,0 0.07999,-1.566547 0.22445,-3.422868 0.144493,-1.856322 0.368054,-4.020149 0.617239,-5.022077 L 25.768411,9.9374141 C 26.156782,8.4498827 24.972914,7.018024 23.439739,7.1317844 22.969201,7.1587185 22.554255,7.3662812 22.205262,7.6367978 l 0.0281,-0.8136326 C 22.321168,5.464154 21.207589,4.3505839 19.848577,4.4383799 19.084019,4.485694 18.561283,4.9788923 18.193256,5.5886881 17.791723,4.0901496 14.946716,3.9978018 14.3776,6.1217577 Z"
+     id="deepin-dark-7-path856" />
+  <path
+     d="M 16.314453 5.3359375 C 15.60888 5.3787625 15.005379 6.0621754 15.050781 6.7675781 L 15.416016 13.136719 C 15.434246 13.454801 15.147931 13.51847 15.107422 13.275391 L 14.125 7.3847656 C 14.028531 6.7183814 13.364905 6.1854179 12.693359 6.234375 C 11.954468 6.3008123 11.361736 7.0736795 11.488281 7.8046875 L 12.833984 15.884766 C 12.838484 15.99876 12.857765 16.113411 12.890625 16.222656 C 12.837925 16.436234 12.806641 16.585938 12.806641 16.585938 C 8.3176328 12.096929 7.2226562 15.324219 7.2226562 15.324219 C 10.273126 17.383776 12.123875 23.813772 14.742188 23.796875 L 22.681641 23.769531 C 22.681641 23.769531 22.978922 17.434141 23.552734 15.126953 L 24.898438 9.7128906 C 25.113945 8.8874519 24.34686 7.9661725 23.496094 8.0292969 C 22.920603 8.0622459 22.392924 8.5070539 22.261719 9.0683594 L 21.111328 13.640625 C 21.048928 13.888814 20.987937 13.788761 20.998047 13.583984 L 21.335938 6.7675781 C 21.385137 6.0060359 20.665839 5.286738 19.904297 5.3359375 C 19.246011 5.3766975 18.668865 5.9679309 18.642578 6.6269531 L 18.333984 12.855469 C 18.318274 13.171962 18.09912 13.178832 18.080078 12.828125 L 17.744141 6.6269531 C 17.715681 5.9117913 17.028753 5.2907152 16.314453 5.3359375 z "
+     style="stroke-width:0.897802;fill:#000000;fill-opacity:1"
+     id="deepin-dark-7-path858" />
+</svg>
+<text class="label" x="488" y="264">openhand</text>
+<rect class="card" x="24" y="300" width="112" height="102" rx="12"/>
+<svg x="48" y="314" width="64" height="64" viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet">
+<metadata
+     id="deepin-dark-8-metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     id="deepin-dark-8-namedview25"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="15.379453"
+     inkscape:cy="11.872322"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23">
+    <inkscape:grid
+       type="xygrid"
+       id="deepin-dark-8-grid852" />
+  </sodipodi:namedview>
+  <defs
+     id="deepin-dark-8-defs5">
+    <filter
+       id="deepin-dark-8-a"
+       x="-.4097"
+       y="-.16971"
+       width="1.8194"
+       height="1.3394"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.2071175"
+         id="deepin-dark-8-feGaussianBlur2" />
+    </filter>
+    <filter
+       id="deepin-dark-8-a-3"
+       x="-.22761"
+       y="-.25381"
+       width="1.4552"
+       height="1.5076"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.9036014"
+         id="deepin-dark-8-feGaussianBlur4" />
+    </filter>
+    <filter
+       id="deepin-dark-8-filter876-3"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.1000633"
+         id="deepin-dark-8-feGaussianBlur4-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-8-filter1116"
+       x="-0.333"
+       width="1.666"
+       y="-0.1998"
+       height="1.3996">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.8325"
+         id="deepin-dark-8-feGaussianBlur1118" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-8-filter1120"
+       x="-0.333"
+       width="1.666"
+       y="-0.1998"
+       height="1.3996">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.8325"
+         id="deepin-dark-8-feGaussianBlur1122" />
+    </filter>
+    <filter
+       id="deepin-dark-8-a-53"
+       x="-.12002"
+       y="-.11998"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.70360011"
+         id="deepin-dark-8-feGaussianBlur2-5" />
+    </filter>
+    <filter
+       id="deepin-dark-8-a-56"
+       x="-.12002"
+       y="-.11998"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.70360011"
+         id="deepin-dark-8-feGaussianBlur2-2" />
+    </filter>
+    <filter
+       id="deepin-dark-8-a-5"
+       x="-.12002"
+       y="-.11998"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.70360011"
+         id="deepin-dark-8-feGaussianBlur2-6" />
+    </filter>
+    <filter
+       id="deepin-dark-8-a-6"
+       x="-.22761"
+       y="-.25381"
+       width="1.4552"
+       height="1.5076"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.9036014"
+         id="deepin-dark-8-feGaussianBlur2-7" />
+    </filter>
+    <filter
+       id="deepin-dark-8-a-3-6"
+       x="-.22761"
+       y="-.25381"
+       width="1.4552"
+       height="1.5076"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.9036014"
+         id="deepin-dark-8-feGaussianBlur4-2" />
+    </filter>
+    <filter
+       id="deepin-dark-8-filter876-3-9"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.1000633"
+         id="deepin-dark-8-feGaussianBlur4-7-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-8-filter987"
+       x="-0.243"
+       width="1.486"
+       y="-0.243"
+       height="1.486">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.405"
+         id="deepin-dark-8-feGaussianBlur989" />
+    </filter>
+  </defs>
+  <g
+     id="deepin-dark-8-g998"
+     transform="translate(-37,-1)">
+    <path
+       sodipodi:nodetypes="cccc"
+       id="deepin-dark-8-path1112"
+       d="m 42.281025,17.536643 6,-5 v 10 z"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#deepin-dark-8-filter1120)" />
+    <path
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#deepin-dark-8-filter1116)"
+       d="m 64,17.536643 -6,-5 v 10 z"
+       id="deepin-dark-8-path1114"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 42.781025,17 6,-5 v 10 z"
+       id="deepin-dark-8-path947"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="deepin-dark-8-path969"
+       d="m 63.218975,17 -6,-5 v 10 z"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       ry="0"
+       y="15.431999"
+       x="51"
+       height="4"
+       width="4"
+       id="deepin-dark-8-rect971"
+       style="opacity:0.35;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#deepin-dark-8-filter987)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="deepin-dark-8-rect917"
+       width="4"
+       height="4"
+       x="51"
+       y="15"
+       ry="0" />
+    <rect
+       ry="0"
+       y="16"
+       x="52"
+       height="2"
+       width="2"
+       id="deepin-dark-8-rect915"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
+<text class="label" x="80" y="388">size_hor</text>
+<rect class="card" x="160" y="300" width="112" height="102" rx="12"/>
+<svg x="184" y="314" width="64" height="64" viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet">
+<metadata
+     id="deepin-dark-9-metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     id="deepin-dark-9-namedview25"
+     showgrid="true"
+     inkscape:zoom="11.921875"
+     inkscape:cx="-0.12266452"
+     inkscape:cy="18.501361"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23">
+    <inkscape:grid
+       type="xygrid"
+       id="deepin-dark-9-grid852" />
+  </sodipodi:namedview>
+  <defs
+     id="deepin-dark-9-defs5">
+    <filter
+       id="deepin-dark-9-a"
+       x="-.4097"
+       y="-.16971"
+       width="1.8194"
+       height="1.3394"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.2071175"
+         id="deepin-dark-9-feGaussianBlur2" />
+    </filter>
+    <filter
+       id="deepin-dark-9-a-562"
+       x="-.4097"
+       y="-.16971"
+       width="1.8194"
+       height="1.3394"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.2071175"
+         id="deepin-dark-9-feGaussianBlur2-9" />
+    </filter>
+    <filter
+       id="deepin-dark-9-a-3"
+       x="-.22761"
+       y="-.25381"
+       width="1.4552"
+       height="1.5076"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.9036014"
+         id="deepin-dark-9-feGaussianBlur4" />
+    </filter>
+    <filter
+       id="deepin-dark-9-filter876-3"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.1000633"
+         id="deepin-dark-9-feGaussianBlur4-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-9-filter1116"
+       x="-0.333"
+       width="1.666"
+       y="-0.1998"
+       height="1.3996">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.8325"
+         id="deepin-dark-9-feGaussianBlur1118" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-9-filter1120"
+       x="-0.333"
+       width="1.666"
+       y="-0.1998"
+       height="1.3996">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.8325"
+         id="deepin-dark-9-feGaussianBlur1122" />
+    </filter>
+    <filter
+       id="deepin-dark-9-a-53"
+       x="-.12002"
+       y="-.11998"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.70360011"
+         id="deepin-dark-9-feGaussianBlur2-5" />
+    </filter>
+    <filter
+       id="deepin-dark-9-a-56"
+       x="-.12002"
+       y="-.11998"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.70360011"
+         id="deepin-dark-9-feGaussianBlur2-2" />
+    </filter>
+    <filter
+       id="deepin-dark-9-a-5"
+       x="-.12002"
+       y="-.11998"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.70360011"
+         id="deepin-dark-9-feGaussianBlur2-6" />
+    </filter>
+    <filter
+       id="deepin-dark-9-a-6"
+       x="-.22761"
+       y="-.25381"
+       width="1.4552"
+       height="1.5076"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.9036014"
+         id="deepin-dark-9-feGaussianBlur2-7" />
+    </filter>
+    <filter
+       id="deepin-dark-9-a-3-6"
+       x="-.22761"
+       y="-.25381"
+       width="1.4552"
+       height="1.5076"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.9036014"
+         id="deepin-dark-9-feGaussianBlur4-2" />
+    </filter>
+    <filter
+       id="deepin-dark-9-filter876-3-9"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.1000633"
+         id="deepin-dark-9-feGaussianBlur4-7-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-9-filter987"
+       x="-0.243"
+       width="1.486"
+       y="-0.243"
+       height="1.486">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.405"
+         id="deepin-dark-9-feGaussianBlur989" />
+    </filter>
+  </defs>
+  <g
+     id="deepin-dark-9-g937"
+     transform="translate(28.541819,1.384894)">
+    <path
+       transform="rotate(90,-12.893488,15.325488)"
+       sodipodi:nodetypes="cccc"
+       id="deepin-dark-9-path1112"
+       d="m -23.93795,14.536643 6,-5 v 10 z"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#deepin-dark-9-filter1120)" />
+    <path
+       transform="rotate(90,-12.893488,15.325488)"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#deepin-dark-9-filter1116)"
+       d="m -2.218975,14.536643 -6,-5 v 10 z"
+       id="deepin-dark-9-path1114"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -12.541819,4.1771556 4.9999996,6.0000004 h -9.9999996 z"
+       id="deepin-dark-9-path947"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="deepin-dark-9-path969"
+       d="m -12.541819,24.615106 4.9999996,-6 h -9.9999996 z"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       transform="rotate(90,-12.893488,15.325488)"
+       ry="0"
+       y="12.431999"
+       x="-15.218975"
+       height="4"
+       width="4"
+       id="deepin-dark-9-rect971"
+       style="opacity:0.35;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#deepin-dark-9-filter987)" />
+    <rect
+       transform="rotate(90)"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="deepin-dark-9-rect917"
+       width="4"
+       height="4"
+       x="12.396131"
+       y="10.54182"
+       ry="0" />
+    <rect
+       transform="rotate(90)"
+       ry="0"
+       y="11.54182"
+       x="13.396131"
+       height="2"
+       width="2"
+       id="deepin-dark-9-rect915"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
+<text class="label" x="216" y="388">size_ver</text>
+<rect class="card" x="296" y="300" width="112" height="102" rx="12"/>
+<svg x="320" y="314" width="64" height="64" viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet">
+<sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     id="deepin-dark-10-namedview38"
+     showgrid="true"
+     inkscape:zoom="16.860077"
+     inkscape:cx="11.220327"
+     inkscape:cy="12.629725"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg36">
+    <inkscape:grid
+       type="xygrid"
+       id="deepin-dark-10-grid863" />
+  </sodipodi:namedview>
+  <metadata
+     id="deepin-dark-10-metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="deepin-dark-10-defs10">
+    <filter
+       id="deepin-dark-10-a-3-3"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.64999976"
+         id="deepin-dark-10-feGaussianBlur4" />
+    </filter>
+    <filter
+       id="deepin-dark-10-b-7-6"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-10-feGaussianBlur7" />
+    </filter>
+    <filter
+       id="deepin-dark-10-a-3-3-7"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.64999976"
+         id="deepin-dark-10-feGaussianBlur4-5" />
+    </filter>
+    <filter
+       id="deepin-dark-10-b-7-6-3"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-10-feGaussianBlur7-5" />
+    </filter>
+    <filter
+       id="deepin-dark-10-a-3-3-5"
+       x="-.12"
+       y="-.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.64999976"
+         id="deepin-dark-10-feGaussianBlur4-6" />
+    </filter>
+    <filter
+       id="deepin-dark-10-b-7-6-2"
+       x="-.16181"
+       y="-.095361"
+       width="1.3236"
+       height="1.1907"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.62797713"
+         id="deepin-dark-10-feGaussianBlur7-9" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.1907"
+       width="1.3236"
+       y="-.095361"
+       x="-.16181"
+       id="deepin-dark-10-b">
+      <feGaussianBlur
+         id="deepin-dark-10-feGaussianBlur871"
+         stdDeviation="0.62797713" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="deepin-dark-10-a">
+      <feGaussianBlur
+         id="deepin-dark-10-feGaussianBlur874"
+         stdDeviation="0.64999976" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-10-filter942"
+       x="-0.108"
+       width="1.216"
+       y="-0.108"
+       height="1.216">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.675"
+         id="deepin-dark-10-feGaussianBlur944" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="deepin-dark-10-filter1090"
+       x="-0.1305"
+       width="1.261"
+       y="-0.092117647"
+       height="1.1842353">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.6525"
+         id="deepin-dark-10-feGaussianBlur1092" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.24"
+       width="1.24"
+       y="-.12"
+       x="-.12"
+       id="deepin-dark-10-a-3-3-2">
+      <feGaussianBlur
+         id="deepin-dark-10-feGaussianBlur916"
+         stdDeviation="0.64999976" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.1907"
+       width="1.3236"
+       y="-.095361"
+       x="-.16181"
+       id="deepin-dark-10-b-7-6-7">
+      <feGaussianBlur
+         id="deepin-dark-10-feGaussianBlur919"
+         stdDeviation="0.62797713" />
+    </filter>
+  </defs>
+  <g
+     id="deepin-dark-10-g930">
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="deepin-dark-10-path1088"
+       d="M 6,7.4339993 V 24.433999 h 8 l 4,-6 z"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#deepin-dark-10-filter1090)" />
+    <circle
+       transform="matrix(1.0964913,0,0,1.0964913,-1.5438602,-2.7982482)"
+       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.00001;stroke-linecap:round;stroke-opacity:1;filter:url(#deepin-dark-10-filter942)"
+       id="deepin-dark-10-circle940"
+       cx="16"
+       cy="19.880001"
+       r="7.5" />
+    <path
+       id="deepin-dark-10-path982"
+       d="M 5,2.7265624 V 3.9631104 23 h 9.537567 l 4.77197,-7.155831 z M 6.087822,5.1996585 17.88602,16.014141 13.955412,21.912178 h -7.86759 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.08782px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 6,5 v 17 h 8 l 4,-6 z"
+       id="deepin-dark-10-path867"
+       sodipodi:nodetypes="ccccc" />
+    <circle
+       r="7.5"
+       cy="18.5"
+       cx="15.5"
+       id="deepin-dark-10-circle930"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.00001;stroke-linecap:round;stroke-opacity:1" />
+    <circle
+       style="fill:#32aa32;fill-opacity:1;stroke:none;stroke-width:4.33334;stroke-linecap:round;stroke-opacity:1"
+       id="deepin-dark-10-path928"
+       cx="15.5"
+       cy="18.5"
+       r="6.5" />
+    <rect
+       width="24"
+       height="24"
+       fill="none"
+       opacity="0.2"
+       id="deepin-dark-10-rect22-1"
+       x="-0.93559998"
+       y="1" />
+    <rect
+       y="18"
+       x="12"
+       height="1"
+       width="7"
+       id="deepin-dark-10-rect981"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.935414;stroke-linecap:round" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.935414;stroke-linecap:round"
+       id="deepin-dark-10-rect932"
+       width="7"
+       height="1"
+       x="-22"
+       y="15"
+       transform="rotate(-90)" />
+  </g>
+</svg>
+<text class="label" x="352" y="388">copy</text>
+<rect class="card" x="432" y="300" width="112" height="102" rx="12"/>
+<svg x="456" y="314" width="64" height="64" viewBox="0 0 32 32.000001" preserveAspectRatio="xMidYMid meet">
+<defs
+     id="deepin-dark-11-defs4">
+    <filter
+       height="1.216"
+       y="-0.10799998"
+       width="1.216"
+       x="-0.10800002"
+       id="deepin-dark-11-filter876"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="deepin-dark-11-feGaussianBlur878"
+         stdDeviation="0.85017694"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:window-height="932"
+     inkscape:window-width="1920"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:document-rotation="0"
+     units="px"
+     showgrid="true"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="15.301379"
+     inkscape:cx="5.3864048"
+     inkscape:zoom="15.839192"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#dcdcdc"
+     id="deepin-dark-11-base">
+    <inkscape:grid
+       id="deepin-dark-11-grid853"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="deepin-dark-11-metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1020.3622)"
+     id="deepin-dark-11-layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       id="deepin-dark-11-path874"
+       d="m 15.5,1029.3622 c -4.130297,0 -7.5000109,3.3697 -7.5,7.5 -1.09e-5,4.1303 3.369703,7.5 7.5,7.5 1.290313,-2e-4 2.516256,-0.4122 3.632812,-1.0391 l 4.353516,4.3536 c 0.771153,0.7711 2.056973,0.7711 2.828125,0 0.771152,-0.7712 0.771151,-2.057 0,-2.8282 l -4.351562,-4.3535 c 0.626354,-1.1168 1.037419,-2.3425 1.037109,-3.6328 1.1e-5,-4.1303 -3.369703,-7.5 -7.5,-7.5 z m 0,2 c 3.049413,0 5.500008,2.4506 5.5,5.5 2.8e-4,1.1663 -0.370941,2.3021 -1.058594,3.2441 a 1.0001,1.0001 0 0 0 0.101563,1.2969 h -0.002 a 1.0001,1.0001 0 0 0 -1.296875,-0.1 c -0.941758,0.6882 -2.077616,1.0584 -3.244094,1.0586 -3.049413,0 -5.5000081,-2.4506 -5.5,-5.5 -8.1e-6,-3.0494 2.450587,-5.5 5.5,-5.5 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;filter:url(#deepin-dark-11-filter876);opacity:0.25" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+       d="m 15.5,1028.3622 c -4.130297,0 -7.5000109,3.3697 -7.5,7.5 -1.09e-5,4.1303 3.369703,7.5 7.5,7.5 1.290313,-2e-4 2.516256,-0.4122 3.632812,-1.0391 l 4.353516,4.3536 c 0.771153,0.7711 2.056973,0.7711 2.828125,0 0.771152,-0.7712 0.771151,-2.057 0,-2.8282 l -4.351562,-4.3535 c 0.626354,-1.1168 1.037419,-2.3425 1.037109,-3.6328 1.1e-5,-4.1303 -3.369703,-7.5 -7.5,-7.5 z m 0,2 c 3.049413,0 5.500008,2.4506 5.5,5.5 2.8e-4,1.1663 -0.370941,2.3021 -1.058594,3.2441 a 1.0001,1.0001 0 0 0 0.101563,1.2969 h -0.002 a 1.0001,1.0001 0 0 0 -1.296875,-0.1 c -0.941758,0.6882 -2.077616,1.0584 -3.244094,1.0586 -3.049413,0 -5.5000081,-2.4506 -5.5,-5.5 -8.1e-6,-3.0494 2.450587,-5.5 5.5,-5.5 z"
+       id="deepin-dark-11-path870" />
+    <path
+       d="M 15.5 9 A 6.4999828 6.4999828 0 0 0 9 15.5 A 6.4999828 6.4999828 0 0 0 15.5 22 A 6.4999828 6.4999828 0 0 0 19.333984 20.748047 L 24.193359 25.607422 C 24.585097 25.999159 25.215685 25.999159 25.607422 25.607422 C 25.999159 25.215685 25.999159 24.585097 25.607422 24.193359 L 20.75 19.333984 A 6.4999828 6.4999828 0 0 0 22 15.5 A 6.4999828 6.4999828 0 0 0 15.5 9 z "
+       style="fill:#000000;stroke:none;stroke-width:1.38151;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       id="deepin-dark-11-rect859"
+       transform="translate(0,1020.3622)" />
+    <circle
+       r="5.4999828"
+       cy="1035.8622"
+       cx="15.5"
+       id="deepin-dark-11-path855"
+       style="fill:#000000;stroke:none;stroke-width:1.99965;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 15,1032.3622 v 3 h -3 v 1 h 3 v 3 h 1 v -3 h 3 v -1 h -3 v -3 z"
+       id="deepin-dark-11-rect5428"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
+<text class="label" x="488" y="388">zoom-in</text>
+</svg>

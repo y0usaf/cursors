@@ -1,5 +1,5 @@
 {
-  description = "Cursor Themes Collection (X11 and Hyprland)";
+  description = "Cursor Themes Collection (Xcursor and Hyprland)";
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
   };
@@ -24,11 +24,11 @@
         src = ./popucom/${color}/xcursor;
         sourceRoot = ".";
         installPhase = ''
-          mkdir -p $out/share/icons/Popucom-${capitalize color}-x11
-          cp -r $src/cursors $out/share/icons/Popucom-${capitalize color}-x11/
-          cp $src/index.theme $out/share/icons/Popucom-${capitalize color}-x11/
+          mkdir -p $out/share/icons/Popucom-${capitalize color}-xcursor
+          cp -r $src/cursors $out/share/icons/Popucom-${capitalize color}-xcursor/
+          cp $src/index.theme $out/share/icons/Popucom-${capitalize color}-xcursor/
         '';
-        meta.description = "Popucom ${capitalize color} animated X11 cursor theme";
+        meta.description = "Popucom ${capitalize color} animated Xcursor theme";
       };
 
       mkPopucomHyprcursor = color: pkgs.stdenv.mkDerivation {
@@ -54,7 +54,7 @@
         installPhase = ''
           runHook preInstall
 
-          themeName="Earendil-${capitalize variant}-x11"
+          themeName="Earendil-${capitalize variant}-xcursor"
           outDir="$out/share/icons/$themeName"
           mkdir -p "$outDir"
           cp -r "$src/cursors" "$outDir/"
@@ -64,7 +64,7 @@
         '';
 
         meta = {
-          description = "Earendil ${capitalize variant} X11 cursor theme generated from the Earendil website SVG cursor";
+          description = "Earendil ${capitalize variant} Xcursor theme generated from the Earendil website SVG cursor";
           homepage = "https://earendil.com";
         };
       };
@@ -109,23 +109,23 @@
         sourceRoot = ".";
 
         installPhase = ''
-                        mkdir -p $out/share/icons/DeepinDarkV20-x11
-                        if [ -d "$src/cursors" ]; then
-                          cp -r $src/cursors $out/share/icons/DeepinDarkV20-x11/
-                        fi
-                        if [ -f "$src/index.theme" ]; then
-                          cp $src/index.theme $out/share/icons/DeepinDarkV20-x11/
-                        else
-                          cat > $out/share/icons/DeepinDarkV20-x11/index.theme << EOF
+          mkdir -p $out/share/icons/Deepin-Dark-xcursor
+          if [ -d "$src/cursors" ]; then
+            cp -r $src/cursors $out/share/icons/Deepin-Dark-xcursor/
+          fi
+          if [ -f "$src/index.theme" ]; then
+            cp $src/index.theme $out/share/icons/Deepin-Dark-xcursor/
+          else
+            cat > $out/share/icons/Deepin-Dark-xcursor/index.theme << EOF
           [Icon Theme]
-          Name=DeepinDarkV20-x11
-          Comment=Deepin Dark X11 Cursor Theme
+          Name=Deepin-Dark-xcursor
+          Comment=Deepin Dark Xcursor Theme
           EOF
-                        fi
+          fi
         '';
 
         meta = {
-          description = "Deepin Dark X11 cursor theme";
+          description = "Deepin Dark Xcursor theme";
           homepage = "https://github.com/y0usaf/Cursors";
           license = pkgs.lib.licenses.mit;
         };
@@ -140,22 +140,82 @@
         dontFixTimestamps = true;
 
         installPhase = ''
-          mkdir -p $out/share/icons/DeepinDarkV20-hypr
+          mkdir -p $out/share/icons/Deepin-Dark-hyprcursor
           if [ -d "$src/hyprcursors" ]; then
-            cp -r $src/hyprcursors $out/share/icons/DeepinDarkV20-hypr/
+            cp -r $src/hyprcursors $out/share/icons/Deepin-Dark-hyprcursor/
           fi
           if [ -f "$src/manifest.hl" ]; then
-            cp $src/manifest.hl $out/share/icons/DeepinDarkV20-hypr/
+            cp $src/manifest.hl $out/share/icons/Deepin-Dark-hyprcursor/
           else
-            printf '%s\n' 'name = DeepinDarkV20-hypr' \
+            printf '%s\n' 'name = Deepin-Dark-hyprcursor' \
               'description = Deepin Dark Cursor Theme for Hyprland' \
               'version = 1.0' \
-              'cursors_directory = hyprcursors' > $out/share/icons/DeepinDarkV20-hypr/manifest.hl
+              'cursors_directory = hyprcursors' > $out/share/icons/Deepin-Dark-hyprcursor/manifest.hl
           fi
         '';
 
         meta = {
           description = "Deepin Dark Hyprland cursor theme";
+          homepage = "https://github.com/y0usaf/Cursors";
+          license = pkgs.lib.licenses.mit;
+        };
+      };
+
+      deepin-light-xcursor = pkgs.stdenv.mkDerivation {
+        pname = "deepin-light-xcursor";
+        version = "1.0.0";
+        src = ./deepin-light/xcursor;
+
+        sourceRoot = ".";
+
+        installPhase = ''
+          mkdir -p $out/share/icons/Deepin-Light-xcursor
+          if [ -d "$src/cursors" ]; then
+            cp -r $src/cursors $out/share/icons/Deepin-Light-xcursor/
+          fi
+          if [ -f "$src/index.theme" ]; then
+            cp $src/index.theme $out/share/icons/Deepin-Light-xcursor/
+          else
+            cat > $out/share/icons/Deepin-Light-xcursor/index.theme << EOF
+          [Icon Theme]
+          Name=Deepin-Light-xcursor
+          Comment=Deepin Light Xcursor Theme
+          EOF
+          fi
+        '';
+
+        meta = {
+          description = "Deepin Light Xcursor theme";
+          homepage = "https://github.com/y0usaf/Cursors";
+          license = pkgs.lib.licenses.mit;
+        };
+      };
+
+      deepin-light-hyprcursor = pkgs.stdenv.mkDerivation {
+        pname = "deepin-light-hyprcursor";
+        version = "1.0.0";
+        src = ./deepin-light/hyprcursor;
+
+        sourceRoot = ".";
+        dontFixTimestamps = true;
+
+        installPhase = ''
+          mkdir -p $out/share/icons/Deepin-Light-hyprcursor
+          if [ -d "$src/hyprcursors" ]; then
+            cp -r $src/hyprcursors $out/share/icons/Deepin-Light-hyprcursor/
+          fi
+          if [ -f "$src/manifest.hl" ]; then
+            cp $src/manifest.hl $out/share/icons/Deepin-Light-hyprcursor/
+          else
+            printf '%s\n' 'name = Deepin-Light-hyprcursor' \
+              'description = Deepin Light Cursor Theme for Hyprland' \
+              'version = 1.0' \
+              'cursors_directory = hyprcursors' > $out/share/icons/Deepin-Light-hyprcursor/manifest.hl
+          fi
+        '';
+
+        meta = {
+          description = "Deepin Light Hyprland cursor theme";
           homepage = "https://github.com/y0usaf/Cursors";
           license = pkgs.lib.licenses.mit;
         };
@@ -169,13 +229,13 @@
         sourceRoot = ".";
 
         installPhase = ''
-          mkdir -p $out/share/icons/Raccoin-x11
-          cp -r $src/cursors $out/share/icons/Raccoin-x11/
-          cp $src/index.theme $out/share/icons/Raccoin-x11/
+          mkdir -p $out/share/icons/Raccoin-xcursor
+          cp -r $src/cursors $out/share/icons/Raccoin-xcursor/
+          cp $src/index.theme $out/share/icons/Raccoin-xcursor/
         '';
 
         meta = {
-          description = "Raccoin X11 cursor theme";
+          description = "Raccoin Xcursor theme";
           homepage = "https://github.com/y0usaf/Cursors";
           license = pkgs.lib.licenses.mit;
         };
@@ -210,23 +270,23 @@
         sourceRoot = ".";
 
         installPhase = ''
-          mkdir -p $out/share/icons/SSB-x11
+          mkdir -p $out/share/icons/SSB-xcursor
           if [ -d "$src/cursors" ]; then
-            cp -r $src/cursors $out/share/icons/SSB-x11/
+            cp -r $src/cursors $out/share/icons/SSB-xcursor/
           fi
           if [ -f "$src/index.theme" ]; then
-            cp $src/index.theme $out/share/icons/SSB-x11/
+            cp $src/index.theme $out/share/icons/SSB-xcursor/
           else
-            cat > $out/share/icons/SSB-x11/index.theme << EOF
+            cat > $out/share/icons/SSB-xcursor/index.theme << EOF
             [Icon Theme]
-            Name=SSB-x11
-            Comment=Super Smash Bros Ultimate X11 Cursor Theme
+            Name=SSB-xcursor
+            Comment=Super Smash Bros Ultimate Xcursor Theme
             EOF
           fi
         '';
 
         meta = {
-          description = "Super Smash Bros Ultimate X11 cursor theme";
+          description = "Super Smash Bros Ultimate Xcursor theme";
           homepage = "https://github.com/y0usaf/Cursors";
           license = pkgs.lib.licenses.mit;
         };

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="200" viewBox="0 0 184 200">
+<style>
+.bg{fill:#f6f8fa}.card{fill:#fff;stroke:#d0d7de;stroke-width:1}.title{font:600 20px sans-serif;fill:#24292f}.label{font:12px sans-serif;fill:#57606a;text-anchor:middle}
+@media (prefers-color-scheme: dark){.bg{fill:#0d1117}.card{fill:#161b22;stroke:#30363d}.title{fill:#f0f6fc}.label{fill:#8b949e}}
+</style>
+<rect class="bg" width="184" height="200" rx="16"/>
+<text class="title" x="24" y="34">Earendil-Dark-xcursor</text>
+<rect class="card" x="24" y="52" width="112" height="102" rx="12"/>
+<svg x="48" y="66" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet">
+<g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+    <path d="m12 .6 1.1 11h-2.2Zm0 22.8-1.1-11h2.2Z"/>
+    <path d="m23.2 12-10.8.9v-1.8ZM.8 12l10.8-.9v1.8Z"/>
+    <path d="m16.38 7.62-3.74 5.02-1.28-1.28Z"/>
+    <path d="m16.38 16.38-5.02-3.74 1.28-1.28Z"/>
+    <path d="m7.62 16.38 3.74-5.02 1.28 1.28Z"/>
+    <path d="m7.62 7.62 5.02 3.74-1.28 1.28Z"/>
+    <path d="m12 9.4 1.1 2.6-1.1 2.6-1.1-2.6Z"/>
+    <circle cx="12" cy="12" r=".6"/>
+  </g>
+  <path d="m12 .6 1.1 11h-2.2Zm0 22.8-1.1-11h2.2Z"/>
+  <path d="m23.2 12-10.8.9v-1.8ZM.8 12l10.8-.9v1.8Z"/>
+  <path d="m16.38 7.62-3.74 5.02-1.28-1.28Z"/>
+  <path d="m16.38 16.38-5.02-3.74 1.28-1.28Z"/>
+  <path d="m7.62 16.38 3.74-5.02 1.28 1.28Z"/>
+  <path d="m7.62 7.62 5.02 3.74-1.28 1.28Z"/>
+  <path d="m12 9.4 1.1 2.6-1.1 2.6-1.1-2.6Z"/>
+  <circle cx="12" cy="12" r=".6"/>
+</svg>
+<text class="label" x="80" y="140">cursor</text>
+</svg>
