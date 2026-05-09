@@ -45,6 +45,55 @@
         meta.description = "Popucom ${capitalize color} animated Hyprland cursor theme";
       };
 
+      mkEarendilXcursor = variant: pkgs.stdenv.mkDerivation {
+        pname = "earendil-${variant}-xcursor";
+        version = "1.0.0";
+        src = ./. + "/earendil-${variant}/xcursor";
+        sourceRoot = ".";
+
+        installPhase = ''
+          runHook preInstall
+
+          themeName="Earendil-${capitalize variant}-x11"
+          outDir="$out/share/icons/$themeName"
+          mkdir -p "$outDir"
+          cp -r "$src/cursors" "$outDir/"
+          cp "$src/index.theme" "$outDir/index.theme"
+
+          runHook postInstall
+        '';
+
+        meta = {
+          description = "Earendil ${capitalize variant} X11 cursor theme generated from the Earendil website SVG cursor";
+          homepage = "https://earendil.com";
+        };
+      };
+
+      mkEarendilHyprcursor = variant: pkgs.stdenv.mkDerivation {
+        pname = "earendil-${variant}-hyprcursor";
+        version = "1.0.0";
+        src = ./. + "/earendil-${variant}/hyprcursor";
+        sourceRoot = ".";
+        dontFixTimestamps = true;
+
+        installPhase = ''
+          runHook preInstall
+
+          themeName="Earendil-${capitalize variant}-hypr"
+          outDir="$out/share/icons/$themeName"
+          mkdir -p "$outDir"
+          cp -r "$src/hyprcursors" "$outDir/"
+          cp "$src/manifest.hl" "$outDir/manifest.hl"
+
+          runHook postInstall
+        '';
+
+        meta = {
+          description = "Earendil ${capitalize variant} Hyprland cursor theme generated from the Earendil website SVG cursor";
+          homepage = "https://earendil.com";
+        };
+      };
+
       popucomColors = ["pink" "green" "blue" "yellow" "red" "orange" "cyan" "purple" "grey" "black" "inverted"];
 
       popucomPackages = builtins.listToAttrs (builtins.concatMap (color: [
@@ -183,6 +232,10 @@
         };
       };
 
+      earendil-dark-xcursor = mkEarendilXcursor "dark";
+      earendil-light-xcursor = mkEarendilXcursor "light";
+      earendil-dark-hyprcursor = mkEarendilHyprcursor "dark";
+      earendil-light-hyprcursor = mkEarendilHyprcursor "light";
       default = self.packages.${system}.deepin-dark-xcursor;
     });
   };
