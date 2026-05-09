@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
-  <g fill="#1c1b1a" opacity="0.95">
+  <g fill="#1c1b1a" stroke="#FFFFFF" stroke-width="0.5" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" opacity="0.95">
     <path d="M12 0.6 L13.1 11.6 L10.9 11.6 Z"/>
     <path d="M12 0.6 L13.1 11.6 L10.9 11.6 Z" transform="rotate(180 12 12)"/>
     <path d="M23.2 12 L12.4 12.9 L12.4 11.1 Z"/>
