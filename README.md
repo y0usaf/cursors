@@ -4,15 +4,65 @@ My cursor theme repository.
 
 ## Available Packages
 
+### Combined theme packages
+
+These package attrs install the matching Xcursor and Hyprcursor outputs where available, and expose reusable cursor metadata through `passthru`/lifted derivation attrs:
+
+- `deepin-dark`, `deepin-light`
+- `earendil-dark`, `earendil-light`
+- `popucom-<colour>`
+- `raccoin`, `raccoin-<variant>`
+- `ssb` - Xcursor only
+
+Example:
+
+```nix
+let
+  theme = inputs.cursors.packages.${pkgs.system}.popucom-cyan;
+in {
+  environment.systemPackages = [ theme ];
+  environment.sessionVariables = theme.mkCursorSessionVariables {
+    xcursorSize = 24;
+    hyprcursorSize = 24;
+  };
+}
+```
+
+Useful attrs include `theme.xcursorThemeName`, `theme.hyprcursorThemeName`, `theme.cursorTheme`, `theme.cursorSessionVariables`, `theme.gtkCursorSettings`, and the `mk*` helpers for size-aware settings.
+
+### Deepin
+
 - `deepin-dark-xcursor` - Deepin Dark Xcursor theme
 - `deepin-dark-hyprcursor` - Deepin Dark Hyprland cursor theme
 - `deepin-light-xcursor` - Deepin Light Xcursor theme
 - `deepin-light-hyprcursor` - Deepin Light Hyprland cursor theme
+
+### Earendil
+
+- `earendil-dark-xcursor` - Earendil Dark Xcursor theme generated from SVG
+- `earendil-dark-hyprcursor` - Earendil Dark Hyprland cursor theme generated from SVG
+- `earendil-light-xcursor` - Earendil Light Xcursor theme generated from SVG
+- `earendil-light-hyprcursor` - Earendil Light Hyprland cursor theme generated from SVG
+
+### Popucom
+
+Available colours: `pink`, `green`, `blue`, `yellow`, `red`, `orange`, `cyan`, `purple`, `grey`, `black`, `inverted`.
+
+- `popucom-<colour>-xcursor` - Popucom animated Xcursor theme
+- `popucom-<colour>-hyprcursor` - Popucom animated Hyprland cursor theme
+
+### Raccoin
+
+Available variants: `default`, `dark`, `bw`, `black-outline`.
+
+- `raccoin-<variant>-xcursor` - Raccoin Xcursor theme
+- `raccoin-<variant>-hyprcursor` - Raccoin Hyprland cursor theme
+- `raccoin-xcursor` - alias for `raccoin-default-xcursor`
+- `raccoin-hyprcursor` - alias for `raccoin-default-hyprcursor`
+
+### SSB
+
 - `ssb-xcursor` - Super Smash Bros Ultimate Xcursor theme
-- `earendil-dark-xcursor` - Earendil dark Xcursor theme generated from SVG
-- `earendil-light-xcursor` - Earendil light Xcursor theme generated from SVG
-- `earendil-dark-hyprcursor` - Earendil dark Hyprland cursor theme generated from SVG
-- `earendil-light-hyprcursor` - Earendil light Hyprland cursor theme generated from SVG
 
 ## Credited Cursor Themes
 
@@ -20,6 +70,9 @@ My cursor theme repository.
 - `deepin-light` - Deepin light SVG source plus generated Xcursor and Hyprland cursor package sources
 - `earendil-dark` - Earendil dark SVG source plus generated Xcursor and Hyprland cursor package sources
 - `earendil-light` - Earendil light SVG source plus generated Xcursor and Hyprland cursor package sources
+- `popucom` - Popucom colour variants plus generated Xcursor and Hyprland cursor package sources
+- `themes/raccoin` - Raccoin colour variants plus generated Xcursor and Hyprland cursor package sources
+- `ssb` - Super Smash Bros Ultimate Xcursor package source
 
 <!-- previews:start -->
 ## Previews
@@ -54,11 +107,15 @@ Generated with `scripts/generate-readme-previews.py`.
 | --- | --- |
 | <img src="docs/previews/popucom-purple.svg" alt="Popucom-Purple-xcursor preview" width="360"> | <img src="docs/previews/popucom-red.svg" alt="Popucom-Red-xcursor preview" width="360"> |
 
-| Popucom-Yellow-xcursor | Raccoin-xcursor |
+| Popucom-Yellow-xcursor | Raccoin-Default-xcursor |
 | --- | --- |
-| <img src="docs/previews/popucom-yellow.svg" alt="Popucom-Yellow-xcursor preview" width="360"> | <img src="docs/previews/raccoin.svg" alt="Raccoin-xcursor preview" width="360"> |
+| <img src="docs/previews/popucom-yellow.svg" alt="Popucom-Yellow-xcursor preview" width="360"> | <img src="docs/previews/raccoin-default.svg" alt="Raccoin-Default-xcursor preview" width="360"> |
 
-| SSB-xcursor | |
+| Raccoin-Dark-xcursor | Raccoin-BW-xcursor |
 | --- | --- |
-| <img src="docs/previews/ssb.svg" alt="SSB-xcursor preview" width="360"> | |
+| <img src="docs/previews/raccoin-dark.svg" alt="Raccoin-Dark-xcursor preview" width="360"> | <img src="docs/previews/raccoin-bw.svg" alt="Raccoin-BW-xcursor preview" width="360"> |
+
+| Raccoin-Black-Outline-xcursor | SSB-xcursor |
+| --- | --- |
+| <img src="docs/previews/raccoin-black-outline.svg" alt="Raccoin-Black-Outline-xcursor preview" width="360"> | <img src="docs/previews/ssb.svg" alt="SSB-xcursor preview" width="360"> |
 <!-- previews:end -->

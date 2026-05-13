@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="200" viewBox="0 0 184 200">
+<style>
+.bg{fill:#f6f8fa}.card{fill:#fff;stroke:#d0d7de;stroke-width:1}.title{font:600 20px sans-serif;fill:#24292f}.label{font:12px sans-serif;fill:#57606a;text-anchor:middle}
+@media (prefers-color-scheme: dark){.bg{fill:#0d1117}.card{fill:#161b22;stroke:#30363d}.title{fill:#f0f6fc}.label{fill:#8b949e}}
+</style>
+<rect class="bg" width="184" height="200" rx="16"/>
+<text class="title" x="24" y="34">Raccoin-Black-Outline-xcursor</text>
+<rect class="card" x="24" y="52" width="112" height="102" rx="12"/>
+<image x="48" y="66" width="64" height="64" viewBox="0 0 25 25" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAABHNCSVQICAgIfAhkiAAAAOVJREFUSInVlrENwjAQRd9FKekZgp492ICeeejZgD3oScEASFDTm8aOHBM7PttI8KRIUSz9n393diKAoR5JLfYA5nUtU15tFg0AuiJ1JcUmuSmqTDT8tokdlqzJFMCopmu4TQW2O6cTpbpc5nKGhUTFSZ7DffJ4vT84vQ+aNf5xOkIkUdPpihmlyxU02Scsl09Yuq/skzBR7y/aowKYHpqpt/axCUY5d9M5ce8sEkB8QyVOY6SLLQBiN1o13Yx4c6OcxktQazVZ3wOLsVMDfDQ5qacZ4blEElyzaPdJdek0tPjD+UPeOlg88sKhHOgAAAAASUVORK5CYII="/>
+<text class="label" x="80" y="140">source</text>
+</svg>

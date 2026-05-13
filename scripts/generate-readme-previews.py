@@ -65,6 +65,18 @@ PREFERRED_PNG_PATTERNS = [
     "forbid_4.png",
 ]
 
+FAMILY_ORDER = {"deepin": 0, "earendil": 1, "popucom": 2, "raccoin": 3, "ssb": 4}
+VARIANT_ORDER = {
+    ("deepin", "dark"): 0,
+    ("deepin", "light"): 1,
+    ("earendil", "dark"): 0,
+    ("earendil", "light"): 1,
+    ("raccoin", "default"): 0,
+    ("raccoin", "dark"): 1,
+    ("raccoin", "bw"): 2,
+    ("raccoin", "black-outline"): 3,
+}
+
 SVG_OPEN_RE = re.compile(r"<svg\b(?P<attrs>[^>]*)>", re.IGNORECASE | re.DOTALL)
 ATTR_RE = re.compile(r"([:\w-]+)\s*=\s*(['\"])(.*?)\2", re.DOTALL)
 LENGTH_RE = re.compile(r"^\s*([0-9.]+)")
@@ -158,26 +170,52 @@ def xcursor_sources(theme_dir: Path) -> list[Source]:
     return [Source("xcursor", p, p.name) for p in paths]
 
 
+def is_theme_dir(path: Path) -> bool:
+    return (path / "xcursor").is_dir() or (path / "hyprcursor").is_dir()
+
+
+def nested_theme_dirs(path: Path) -> list[Path]:
+    return sorted(p for p in path.rglob("*") if p.is_dir() and is_theme_dir(p))
+
+
 def theme_dirs(root: Path) -> list[Path]:
-    ignored = {".git", "docs", "scripts"}
+    ignored = {".git", "docs", "scripts", "themes"}
     dirs: list[Path] = []
+
+    # New organized layout: themes/<family>/<variant>/.
+    themes_root = root / "themes"
+    if themes_root.is_dir():
+        dirs.extend(nested_theme_dirs(themes_root))
+
+    # Legacy top-level layouts kept while the repo is migrated family-by-family.
     for child in sorted(p for p in root.iterdir() if p.is_dir() and p.name not in ignored):
         # Popucom stores one theme per color below popucom/<color>/.
         if child.name == "popucom":
-            dirs.extend(sorted(p for p in child.iterdir() if p.is_dir()))
-        else:
+            dirs.extend(sorted(p for p in child.iterdir() if p.is_dir() and is_theme_dir(p)))
+        elif is_theme_dir(child):
             dirs.append(child)
     return dirs
 
 
+def theme_slug(root: Path, theme_dir: Path) -> str:
+    rel = theme_dir.relative_to(root)
+    parts = rel.parts[1:] if rel.parts and rel.parts[0] == "themes" else rel.parts
+    return "-".join(parts)
+
+
+def theme_sort_key(root: Path, theme_dir: Path) -> tuple[int, int, str]:
+    slug = theme_slug(root, theme_dir)
+    family, _, variant = slug.partition("-")
+    return (FAMILY_ORDER.get(family, 99), VARIANT_ORDER.get((family, variant), 99), slug)
+
+
 def discover_themes(root: Path) -> list[Theme]:
     themes: list[Theme] = []
-    for theme_dir in theme_dirs(root):
+    for theme_dir in sorted(theme_dirs(root), key=lambda path: theme_sort_key(root, path)):
         sources = svg_sources(theme_dir) or png_sources(theme_dir) or xcursor_sources(theme_dir)
         if not sources:
             continue
-        rel = theme_dir.relative_to(root)
-        slug = "-".join(rel.parts)
+        slug = theme_slug(root, theme_dir)
         themes.append(Theme(theme_dir, slug, read_theme_name(theme_dir), sources))
     return themes
 
