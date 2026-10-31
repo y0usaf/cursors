@@ -36,7 +36,7 @@ def parse(path):
         typ, sub, pos = struct.unpack("<III", data[off : off + 12])
         off += 12
         if typ != CHUNK_IMAGE:
-            continue  # comment chunk: dropped
+            continue
         hsz, ctyp, csub, ver, w, h, xhot, yhot, delay = struct.unpack(
             "<9I", data[pos : pos + IMAGE_HEADER_SIZE]
         )

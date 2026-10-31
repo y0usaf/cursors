@@ -435,7 +435,6 @@
             };
           };
 
-          # Backwards-compatible aliases for the default Raccoin colour.
           raccoin-xcursor = raccoinPackages."raccoin-default-xcursor";
           raccoin-hyprcursor = raccoinPackages."raccoin-default-hyprcursor";
 

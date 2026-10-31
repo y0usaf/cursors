@@ -85,7 +85,7 @@ XC_IMAGE_TYPE = 0xFFFD0002
 
 @dataclasses.dataclass(frozen=True)
 class Source:
-    kind: str  # svg | png | xcursor
+    kind: str
     path: Path
     label: str
 
@@ -182,14 +182,11 @@ def theme_dirs(root: Path) -> list[Path]:
     ignored = {".git", "docs", "scripts", "themes"}
     dirs: list[Path] = []
 
-    # New organized layout: themes/<family>/<variant>/.
     themes_root = root / "themes"
     if themes_root.is_dir():
         dirs.extend(nested_theme_dirs(themes_root))
 
-    # Legacy top-level layouts kept while the repo is migrated family-by-family.
     for child in sorted(p for p in root.iterdir() if p.is_dir() and p.name not in ignored):
-        # Popucom stores one theme per color below popucom/<color>/.
         if child.name == "popucom":
             dirs.extend(sorted(p for p in child.iterdir() if p.is_dir() and is_theme_dir(p)))
         elif is_theme_dir(child):
@@ -300,7 +297,6 @@ def decode_xcursor_first_image(path: Path) -> tuple[int, int, bytes] | None:
             entries.append((subtype, pos))
     if not entries:
         return None
-    # Smallest size is enough for a README thumbnail.
     _subtype, pos = sorted(entries)[0]
     if pos + 36 > len(data):
         return None
