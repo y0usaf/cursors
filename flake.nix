@@ -34,7 +34,7 @@
       getMeta = id: builtins.fromJSON (builtins.readFile (./. + "/themes/${id}/theme.json"));
 
       mkOutput = id: kind:
-        pkgs.runCommand "${id}-${kind}" {
+        pkgs.runCommand "${id}-${kind}-1.0.0" {
           nativeBuildInputs = [pkgs.jq pkgs.python3 pkgs.hyprcursor];
           scripts = ./scripts;
         } ''
