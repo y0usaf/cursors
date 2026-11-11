@@ -1,0 +1,111 @@
+{
+  "name": "Popucom-Black-xcursor",
+  "comment": "Popucom Black Animated Xcursor Theme",
+  "cursors": {
+    "default": [
+      {
+        "size": 40,
+        "x": 11,
+        "y": 4,
+        "delay": 500,
+        "file": "4e4fb000f9e1ece6.png"
+      },
+      {
+        "size": 40,
+        "x": 11,
+        "y": 4,
+        "delay": 500,
+        "file": "6de80b915bb2bf49.png"
+      },
+      {
+        "size": 40,
+        "x": 11,
+        "y": 4,
+        "delay": 500,
+        "file": "e7c050c66d504d8a.png"
+      },
+      {
+        "size": 40,
+        "x": 11,
+        "y": 4,
+        "delay": 500,
+        "file": "6de80b915bb2bf49.png"
+      },
+      {
+        "size": 40,
+        "x": 11,
+        "y": 4,
+        "delay": 500,
+        "file": "4e4fb000f9e1ece6.png"
+      }
+    ],
+    "not-allowed": [
+      {
+        "size": 60,
+        "x": 28,
+        "y": 25,
+        "delay": 500,
+        "file": "ab00cb5ebd5735a5.png"
+      },
+      {
+        "size": 60,
+        "x": 28,
+        "y": 25,
+        "delay": 500,
+        "file": "4517ad22e08470f4.png"
+      },
+      {
+        "size": 60,
+        "x": 28,
+        "y": 25,
+        "delay": 500,
+        "file": "8f040577e6512367.png"
+      },
+      {
+        "size": 60,
+        "x": 28,
+        "y": 25,
+        "delay": 500,
+        "file": "4517ad22e08470f4.png"
+      },
+      {
+        "size": 60,
+        "x": 28,
+        "y": 25,
+        "delay": 500,
+        "file": "ab00cb5ebd5735a5.png"
+      },
+      {
+        "size": 60,
+        "x": 28,
+        "y": 25,
+        "delay": 500,
+        "file": "36512c7b201bcc98.png"
+      },
+      {
+        "size": 60,
+        "x": 28,
+        "y": 25,
+        "delay": 500,
+        "file": "348dc19c06e176b1.png"
+      }
+    ]
+  },
+  "aliases": {
+    "arrow": "default",
+    "circle": "not-allowed",
+    "crossed_circle": "not-allowed",
+    "dnd-no-drop": "not-allowed",
+    "forbidden": "not-allowed",
+    "left_ptr": "default",
+    "no-drop": "not-allowed",
+    "pirate": "not-allowed",
+    "top_left_arrow": "default"
+  },
+  "hyprcursor": {
+    "name": "Popucom-Black-hyprcursor",
+    "description": "Popucom Black Animated Cursor Theme for Hyprland",
+    "version": "2.0",
+    "resizeAlgorithm": "bilinear"
+  }
+}

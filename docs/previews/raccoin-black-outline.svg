@@ -6,6 +6,6 @@
 <rect class="bg" width="184" height="200" rx="16"/>
 <text class="title" x="24" y="34">Raccoin-Black-Outline-xcursor</text>
 <rect class="card" x="24" y="52" width="112" height="102" rx="12"/>
-<image x="48" y="66" width="64" height="64" viewBox="0 0 25 25" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAABHNCSVQICAgIfAhkiAAAAOVJREFUSInVlrENwjAQRd9FKekZgp492ICeeejZgD3oScEASFDTm8aOHBM7PttI8KRIUSz9n393diKAoR5JLfYA5nUtU15tFg0AuiJ1JcUmuSmqTDT8tokdlqzJFMCopmu4TQW2O6cTpbpc5nKGhUTFSZ7DffJ4vT84vQ+aNf5xOkIkUdPpihmlyxU02Scsl09Yuq/skzBR7y/aowKYHpqpt/axCUY5d9M5ce8sEkB8QyVOY6SLLQBiN1o13Yx4c6OcxktQazVZ3wOLsVMDfDQ5qacZ4blEElyzaPdJdek0tPjD+UPeOlg88sKhHOgAAAAASUVORK5CYII="/>
-<text class="label" x="80" y="140">source</text>
+<image x="48" y="66" width="64" height="64" viewBox="0 0 96 96" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAABJElEQVR42u3dMQ7CMBAEwPt/T88P+Ac9j6CnDxINHchgxxffrLQf2OmcxImI2PTVaTE+AACaBWB73JZspsEBAAAAAAAAAAAAAABQb3AAAAAAAAAAAAAAAAAAAAAAAAAADuMAAABwrGGvl5/rvSAAAAAAqAuQCQQAAAAAAPQFuJ9Pf3VPDAAAAAAAkAvgA8YGAAAAAADqAIwGAQAAAIASAB0Pz751JEBvEAAAAACYCAIAAAAARwGIxqvAWgBmjtY4aNfrzwAAAAAgC0D0v97xjbEOwLjnAQAAAAAwF2C/V2AAAAAAAMBsgDSfRwEAAAAAgFIAhwABAABAFYBuILHIH5YAAAAAQNpBjAgAAAAAdUAAAAAAAAAMgwMAAACAiIiIiEjmPAENQldRpIADkAAAAABJRU5ErkJggg=="/>
+<text class="label" x="80" y="140">default</text>
 </svg>

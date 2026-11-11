@@ -1,0 +1,2545 @@
+{
+  "name": "Deepin-Light-xcursor",
+  "cursors": {
+    "bottom_side": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 28,
+        "delay": 50,
+        "file": "77ef4d44486de259.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 35,
+        "delay": 50,
+        "file": "1fb690fc94a0a7ac.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 42,
+        "delay": 50,
+        "file": "42b5d5167f039297.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 56,
+        "delay": 50,
+        "file": "1469b39a7fa11c3c.png"
+      }
+    ],
+    "cell": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "be0eefabcea178f0.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "14e1ee1530e9bd3e.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "479dbaeada1b5815.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "55248236eb5e71e1.png"
+      }
+    ],
+    "center_ptr": [
+      {
+        "size": 32,
+        "x": 20,
+        "y": 4,
+        "delay": 50,
+        "file": "93874a4d0650f22c.png"
+      },
+      {
+        "size": 40,
+        "x": 25,
+        "y": 5,
+        "delay": 50,
+        "file": "c5d0d38cd050ecc8.png"
+      },
+      {
+        "size": 48,
+        "x": 30,
+        "y": 6,
+        "delay": 50,
+        "file": "33bfe123bd0b2153.png"
+      },
+      {
+        "size": 64,
+        "x": 40,
+        "y": 8,
+        "delay": 50,
+        "file": "e32ad34a98229118.png"
+      }
+    ],
+    "context-menu": [
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 50,
+        "file": "a77e890c6298c095.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 50,
+        "file": "d6fdaa4856c1bfec.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 50,
+        "file": "e61f65df66218677.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 50,
+        "file": "5fedbb76dfdad9b4.png"
+      }
+    ],
+    "copy": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "ecfbfd50abe8bcae.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "3b47956ab592c860.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "639ec4f73e1a1470.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "e9d61a0aec001219.png"
+      }
+    ],
+    "crosshair": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "39f1f970a066e61c.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "38d9d86e559096a0.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "9fadd5ceb99a5a96.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "fbb97b1e9a754817.png"
+      }
+    ],
+    "default": [
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 50,
+        "file": "4a85803d63ba9260.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 50,
+        "file": "db08da805e58ff9b.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 50,
+        "file": "a71142c2ceefe593.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 50,
+        "file": "8c5b69e3b3e72b4c.png"
+      }
+    ],
+    "dnd-no-drop": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "a32b380d4e1cac07.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "a9c38243df4ac33b.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "612a8d492c1c7ff8.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "69a0cf39e068d848.png"
+      }
+    ],
+    "down-arrow": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 28,
+        "delay": 50,
+        "file": "e8cfe91ea73188ff.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 35,
+        "delay": 50,
+        "file": "281b20b032f16988.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 42,
+        "delay": 50,
+        "file": "6eef1454f2a5a237.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 56,
+        "delay": 50,
+        "file": "6bdc055e0a96ea09.png"
+      }
+    ],
+    "draft": [
+      {
+        "size": 32,
+        "x": 4,
+        "y": 29,
+        "delay": 50,
+        "file": "93287b262dbf35c2.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 36,
+        "delay": 50,
+        "file": "a21fff74d8ed9297.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 43,
+        "delay": 50,
+        "file": "8d303c2b01d6b7b4.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 58,
+        "delay": 50,
+        "file": "7246f3fee867e574.png"
+      }
+    ],
+    "fleur": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "5efd2cc243fd33ee.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "fed4fbe70e5e5654.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "62db975264ad39ef.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "0d211f6d22437ee3.png"
+      }
+    ],
+    "help": [
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 50,
+        "file": "cf9bdbb175092902.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 50,
+        "file": "2d464d2c23c956ba.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 50,
+        "file": "70fd31efc5ef548e.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 50,
+        "file": "49c647002e28d9f5.png"
+      }
+    ],
+    "left_side": [
+      {
+        "size": 32,
+        "x": 4,
+        "y": 16,
+        "delay": 50,
+        "file": "b6fd13ffdc9bcae6.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 20,
+        "delay": 50,
+        "file": "85c50dbb30cc7bd6.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 24,
+        "delay": 50,
+        "file": "fe57d53542ce599f.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 32,
+        "delay": 50,
+        "file": "b9da6cfae13c9cc0.png"
+      }
+    ],
+    "link": [
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 50,
+        "file": "c7184cd23d9b4f18.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 50,
+        "file": "387e40f65020f54f.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 50,
+        "file": "6cefe37f453946cb.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 50,
+        "file": "b57a9fe7a22e4f6c.png"
+      }
+    ],
+    "ll_angle": [
+      {
+        "size": 32,
+        "x": 4,
+        "y": 26,
+        "delay": 50,
+        "file": "40af4377218bd833.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 32,
+        "delay": 50,
+        "file": "fe5f6ac95c6ab210.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 39,
+        "delay": 50,
+        "file": "91950b9b6df81808.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 52,
+        "delay": 50,
+        "file": "4abb2782ceaaba78.png"
+      }
+    ],
+    "lr_angle": [
+      {
+        "size": 32,
+        "x": 26,
+        "y": 26,
+        "delay": 50,
+        "file": "19aa41020646749d.png"
+      },
+      {
+        "size": 40,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "2577438b44626cd7.png"
+      },
+      {
+        "size": 48,
+        "x": 39,
+        "y": 39,
+        "delay": 50,
+        "file": "55396124f5a0ed98.png"
+      },
+      {
+        "size": 64,
+        "x": 52,
+        "y": 52,
+        "delay": 50,
+        "file": "c6a42d8f983a31c7.png"
+      }
+    ],
+    "no-drop": [
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 50,
+        "file": "5abd69b2faf59f54.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 50,
+        "file": "d1b65ad6a5c129a0.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 50,
+        "file": "1680d1ec4cce069a.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 50,
+        "file": "c378c2b118c581b3.png"
+      }
+    ],
+    "not-allowed": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "52be72fc73dd567a.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "2613eb598f0dc95d.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "2aee852b4538c608.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "3bc1bd1eb4a40e15.png"
+      }
+    ],
+    "openhand": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "8119fea089229c98.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "77b5657b71430129.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "f7c81cb3a84f3906.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "b102e50cda51e6b9.png"
+      }
+    ],
+    "pencil": [
+      {
+        "size": 32,
+        "x": 4,
+        "y": 29,
+        "delay": 50,
+        "file": "b6c63068fc8b3cee.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 36,
+        "delay": 50,
+        "file": "a3226d41765cee9c.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 43,
+        "delay": 50,
+        "file": "e9e702f6d9068e52.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 58,
+        "delay": 50,
+        "file": "a50d44d2e969c7f2.png"
+      }
+    ],
+    "pirate": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "76dac6cb99000258.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "8484ddabff889729.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "945a997f5eb17d8a.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "73fb5eaee2c22518.png"
+      }
+    ],
+    "pointer": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 4,
+        "delay": 50,
+        "file": "0bf45510d6be4e10.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 5,
+        "delay": 50,
+        "file": "d9a160189dc88a3b.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 6,
+        "delay": 50,
+        "file": "ee5d76763e4305fc.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 8,
+        "delay": 50,
+        "file": "b8490b9594bbe13c.png"
+      }
+    ],
+    "progress": [
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "5af08075e8be5df2.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "93f83f1937a45922.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "c6e71e150a720707.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "1edfb6b8a19a5232.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "40f97fecad2a88be.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "ded0b432d3baa381.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "ec09efd8fe670e48.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "a305bb68ec611225.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "7728905e9aa78389.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "295a2c6def8ca9a4.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "6f4e1ac64e6fa406.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "8d42ef321d438ef7.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "996e3e6d3791734a.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "d19c3366096e6f84.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "d66c859bc49cf4cd.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "5c38bc59b6f99c6c.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "15cc6253241a5d95.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "d09f130b39dae39b.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "967a200c4f7c69a2.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "b1d6ca7cdf675ce3.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "75d299ea6ffea43e.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "ab5e4040616a6d74.png"
+      },
+      {
+        "size": 32,
+        "x": 4,
+        "y": 4,
+        "delay": 30,
+        "file": "2922a3e6c47ab328.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "78d4096dec9bd7f5.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "5af52bf03528801d.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "f0eb483ddf3e2ba5.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "428212781a8e87f8.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "3fb202a6b6ece55e.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "9341b07d2f68931f.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "8f8db2e065c9d99a.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "32435dcedfe4342a.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "999edf0fc6553ff8.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "d61168192290d39e.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "be05fe8535ac75e0.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "7295c480838b6288.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "1a9d0895224bebed.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "d6e11953b1a15293.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "2597e5a54044da76.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "b709c50ab8febd8b.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "323145dc73d79268.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "1b7d7d912da64c1d.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "60b4377667092dbf.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "7066ac753a5b0057.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "6695773ca4ea96cf.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "a7b40770fcbb7fa1.png"
+      },
+      {
+        "size": 40,
+        "x": 5,
+        "y": 5,
+        "delay": 30,
+        "file": "8acfca448471027d.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "9e122d14bf8af15a.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "efcf01a686a52ed4.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "9ffeea9b9628042b.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "f4ecb78aaf8c2e81.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "bad974c077f549e1.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "f0250885cd04ea50.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "c4d4116df6649b77.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "908b12cf52828f17.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "f5115c025ca53865.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "3ba4d3694a111b37.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "92f92c673cf5e259.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "8ef058006f00e8f4.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "fc31c23589e72a9c.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "0ef52e7463ffb455.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "5f614bd566dc1dc5.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "ad6765cf74544557.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "63a6a6ddbe52dc6d.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "2811d654bbcb498a.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "6a43b9e9823fa87f.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "714de19b0e4d4368.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "b74c7787272320aa.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "b07a347f8644dcda.png"
+      },
+      {
+        "size": 48,
+        "x": 6,
+        "y": 6,
+        "delay": 30,
+        "file": "d583b83aabe47316.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "feaab89ab64409e2.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "5ceaa33fb3b4bde0.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "bdc0e62f637b992c.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "a116bb633f6b4df2.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "9ef2fc8cb4548354.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "9f3bf77b3fc1a7e3.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "e30250d55abdb244.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "3691a446e6c50d2b.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "837a0c91f0c214f1.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "722f834775d03118.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "fd6270a510e18285.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "b85449289b904d4c.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "5d26bddbd275df62.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "2ae5fd03f1ee4713.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "bbbafd4057adc0dc.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "59cea68137738d85.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "83868268f8f6b126.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "c81f336d448ebb76.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "686b1ef52d8483e4.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "d81b6f0c6d4471ef.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "c4ef42f63852a961.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "406d83f662819cdd.png"
+      },
+      {
+        "size": 64,
+        "x": 8,
+        "y": 8,
+        "delay": 30,
+        "file": "7b2c1255fbba37ad.png"
+      }
+    ],
+    "right_ptr": [
+      {
+        "size": 32,
+        "x": 28,
+        "y": 4,
+        "delay": 50,
+        "file": "ed4f6e3161540e06.png"
+      },
+      {
+        "size": 40,
+        "x": 35,
+        "y": 5,
+        "delay": 50,
+        "file": "10149abf0f246694.png"
+      },
+      {
+        "size": 48,
+        "x": 42,
+        "y": 6,
+        "delay": 50,
+        "file": "b996f6bf1fae98e7.png"
+      },
+      {
+        "size": 64,
+        "x": 56,
+        "y": 8,
+        "delay": 50,
+        "file": "1b49e50e95029cd2.png"
+      }
+    ],
+    "right_side": [
+      {
+        "size": 32,
+        "x": 28,
+        "y": 16,
+        "delay": 50,
+        "file": "e605b11de3818a56.png"
+      },
+      {
+        "size": 40,
+        "x": 35,
+        "y": 20,
+        "delay": 50,
+        "file": "5393d556ab51f316.png"
+      },
+      {
+        "size": 48,
+        "x": 42,
+        "y": 24,
+        "delay": 50,
+        "file": "32e8c221f38a9bad.png"
+      },
+      {
+        "size": 64,
+        "x": 56,
+        "y": 32,
+        "delay": 50,
+        "file": "85dc298cafd9a138.png"
+      }
+    ],
+    "size_bdiag": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "cdd76f9c5ee55fe9.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "9e74527c86f2e70d.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "c6a930d5201bc138.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "eaea8604f8d7a9ba.png"
+      }
+    ],
+    "size_fdiag": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "773a07a94322c2a7.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "cd6e7c4ddf838586.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "05b8c034839b2052.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "0077ae11236a2205.png"
+      }
+    ],
+    "size_hor": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "2f0995f2d022c882.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "3996c2f8a17e1282.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "e6add929c892e552.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "936f89fc21bc007c.png"
+      }
+    ],
+    "size_ver": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "4870710de2823351.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "6b07ef66fb053004.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "5300b8425fa77e87.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "7cdd70a686f4143c.png"
+      }
+    ],
+    "split_v": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "4f216c685c7e4ee0.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "1dfa0c6ca36988a7.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "40e95ad6b8a9769b.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "34b0cec038d07bd3.png"
+      }
+    ],
+    "text": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "b904bd359d529337.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "3bcd680260b57173.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "cdd28b515b96e701.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "94f1b982f681893f.png"
+      }
+    ],
+    "top_side": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 4,
+        "delay": 50,
+        "file": "846c4e9e4f01ca6b.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 5,
+        "delay": 50,
+        "file": "c8d57af18c114bd7.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 6,
+        "delay": 50,
+        "file": "1f9895be81c76178.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 8,
+        "delay": 50,
+        "file": "294e43af578c1030.png"
+      }
+    ],
+    "ul_angle": [
+      {
+        "size": 32,
+        "x": 5,
+        "y": 4,
+        "delay": 50,
+        "file": "13e7ef146925e32f.png"
+      },
+      {
+        "size": 40,
+        "x": 6,
+        "y": 5,
+        "delay": 50,
+        "file": "f9312fab4251a4ce.png"
+      },
+      {
+        "size": 48,
+        "x": 7,
+        "y": 6,
+        "delay": 50,
+        "file": "bddb016883ef315b.png"
+      },
+      {
+        "size": 64,
+        "x": 10,
+        "y": 8,
+        "delay": 50,
+        "file": "31a4b39f11fcc0c5.png"
+      }
+    ],
+    "up-arrow": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 4,
+        "delay": 50,
+        "file": "70336ae2c243b886.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 5,
+        "delay": 50,
+        "file": "bc5f1f261568a845.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 6,
+        "delay": 50,
+        "file": "2c4f9b15fd2878ba.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 8,
+        "delay": 50,
+        "file": "40cdd053ab5465a0.png"
+      }
+    ],
+    "ur_angle": [
+      {
+        "size": 32,
+        "x": 26,
+        "y": 4,
+        "delay": 50,
+        "file": "f68abb8221482b29.png"
+      },
+      {
+        "size": 40,
+        "x": 32,
+        "y": 5,
+        "delay": 50,
+        "file": "b3404dca39399ce3.png"
+      },
+      {
+        "size": 48,
+        "x": 39,
+        "y": 6,
+        "delay": 50,
+        "file": "a1b8ffc946e0ca30.png"
+      },
+      {
+        "size": 64,
+        "x": 52,
+        "y": 8,
+        "delay": 50,
+        "file": "46f2fe017d1e4ddf.png"
+      }
+    ],
+    "vertical-text": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "920d1edfeb4dac35.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "7c6315ee9bdab8b9.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "fbe44056ef447d7c.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "ecddf5b5d2d12a25.png"
+      }
+    ],
+    "wait": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "2f6aa568a7e62c83.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "8fc2b3935ae92d68.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "13baeb23e025c52a.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "2ef3b9807e0f3856.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "443db0eb5aca5d1d.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "68a9fa1a044e0960.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "060e1086f81a494f.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "6fde283e08277c16.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "b83a80600313eed1.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "d95bf46f8a2ba136.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "0f876f9bcff98b81.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "bb211569200d758b.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "2479adba3d52eb31.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "c41fff72db50f65f.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "023cdc754830aaf1.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "6eeec22c2f6714b5.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "68689541970b964c.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "6dcb952de9ed1628.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "8be2551b44dd2fed.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "9887e4b867d3040f.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "01af996019674238.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "0da52a48d9673a55.png"
+      },
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 30,
+        "file": "aeba9a145a6b56ab.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "977e4102c0a2fc33.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "3f0f4525536c653c.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "45b7300fc123a0ad.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "665c1cea0e709af0.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "6e5b3155e8e32f6a.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "c90ac7ca69ab3b4e.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "55ab5b414f83a485.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "a37bec495a337deb.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "ffec3bf889bef172.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "e14ccf31d7c09b7d.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "f23b8691c4b96b02.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "1173d1c3cf79004a.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "867e6ec4d3b3ee20.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "aff946b88a15db76.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "8639d2f835dd2bd4.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "48e3acc3bd6a7eaa.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "76c1877197b17292.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "3764c14d8cd94e5a.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "fb5dee7d695936a6.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "7811d8e29374e89b.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "87a82b037243fdb5.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "4fc91add2886a6e0.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 30,
+        "file": "6cea7c276c7a1fb3.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "c80b6666fde29c21.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "35204e1a5af5376e.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "7b970d5f985741b5.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "d358cf3e84995df5.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "37c6aaf8cb5573d4.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "4afea3ae3af21693.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "d4ff908ea25a4431.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "b4b360b75fcd8f20.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "ad83ba5a9e305979.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "1d7458af94b98d6d.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "c7bef2954dbd7492.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "61e2f63a2ba48310.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "aa80402f6a32ecc6.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "39196298ad3fb21e.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "612d56d65fd55eda.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "4cecec2527bd1a7f.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "83df768646ff7548.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "dc0e6b39bad402ca.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "09f73240380eb18e.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "94c47b583de7a5ea.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "d3e7dc3ecdebe883.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "5ead516d4601fb1b.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 30,
+        "file": "1f18292f5f116e4a.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "60d521c8462b59b7.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "f6e4e617425058dc.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "c39cf2adc18abfef.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "3009d884f7608ebf.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "ca4ed1435b9d5d19.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "c58f3166b55a7cf5.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "a2dc74aecc5d6285.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "fd5da8dd3068983d.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "959ed93af0a2ce3d.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "02e680a261e975f4.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "0c8fc9c71ad9b785.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "9369ab7432bf6d0c.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "b76d0f98ccfa42a3.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "f27380638945a273.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "d463aeb898ff858b.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "a62059be2a853990.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "d7460582faea10b6.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "b1da64fc40b70217.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "67c0c158aa13d18f.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "b94fe35a904f64ff.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "055b686843b537af.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "a8c1713b989a7bfa.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 30,
+        "file": "7b00d4cde42bedfd.png"
+      }
+    ],
+    "wayland-cursor": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "cde1b8d68177ab30.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "698000beb336231c.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "da08642c19337712.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "99fd423164eda4ad.png"
+      }
+    ],
+    "x-cursor": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "fe017ce37e9c62d1.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "1e7627f7a2155081.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "112a1b8d8d974872.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "400661af90e005fc.png"
+      }
+    ],
+    "zoom-in": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "af3418c5d3c456a1.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "558579308d752cbd.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "8050029424b5e1e4.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "51dbd99e2399ed09.png"
+      }
+    ],
+    "zoom-out": [
+      {
+        "size": 32,
+        "x": 16,
+        "y": 16,
+        "delay": 50,
+        "file": "ec722046f63d1e23.png"
+      },
+      {
+        "size": 40,
+        "x": 20,
+        "y": 20,
+        "delay": 50,
+        "file": "a967862f07e6f810.png"
+      },
+      {
+        "size": 48,
+        "x": 24,
+        "y": 24,
+        "delay": 50,
+        "file": "b30f213159b8fe61.png"
+      },
+      {
+        "size": 64,
+        "x": 32,
+        "y": 32,
+        "delay": 50,
+        "file": "8101943c2eda1902.png"
+      }
+    ]
+  },
+  "aliases": {
+    "00000000000000020006000e7e9ffc3f": "progress",
+    "00008160000006810000408080010102": "size_ver",
+    "03b6e0fcb3499374a867c041f52298f0": "not-allowed",
+    "08e8e1c95fe2fc01f976f1e063a24ccd": "progress",
+    "1081e37283d90000800003c07f3ef6bf": "copy",
+    "3085a0e285430894940527032f8b26df": "link",
+    "3ecb610c1bf2410f44200f48c40d3599": "progress",
+    "4498f0e0c1937ffe01fd06f973665830": "copy",
+    "5c6cd98b3f3ebcb1f9c7f1c204630408": "help",
+    "6407b0e94181790501fd1e167b474872": "copy",
+    "640fb0e74195791501fd1ed57b41487f": "link",
+    "9081237383d90e509aa00f00170e968f": "copy",
+    "9d800788f1b08800ae810202380a0822": "pointer",
+    "a2a266d0498c3104214a47bd64ab0fc8": "link",
+    "alias": "link",
+    "all-scroll": "fleur",
+    "arrow": "default",
+    "b66166c04f8c3109214a4fbd64a50fc8": "copy",
+    "bottom_left_corner": "ll_angle",
+    "bottom_right_corner": "lr_angle",
+    "circle": "not-allowed",
+    "closedhand": "copy",
+    "col-resize": "size_hor",
+    "color-picker": "crosshair",
+    "cross": "crosshair",
+    "crossed_circle": "not-allowed",
+    "d9ce0ab605698f320427677b458ad60b": "help",
+    "dnd-copy": "copy",
+    "dnd-move": "copy",
+    "dnd-none": "copy",
+    "e-resize": "size_hor",
+    "e29285e634086352946a0e7090d73106": "pointer",
+    "fcf21c00b30f7e3f83fe0dfd12e71cff": "copy",
+    "forbidden": "no-drop",
+    "grab": "openhand",
+    "grabbing": "copy",
+    "h_double_arrow": "size_hor",
+    "half-busy": "progress",
+    "hand1": "pointer",
+    "hand2": "pointer",
+    "ibeam": "text",
+    "left-arrow": "left_side",
+    "left_ptr": "default",
+    "left_ptr_help": "help",
+    "left_ptr_watch": "progress",
+    "move": "copy",
+    "n-resize": "size_ver",
+    "ne-resize": "ur_angle",
+    "nesw-resize": "size_bdiag",
+    "nw-resize": "ul_angle",
+    "nwse-resize": "size_fdiag",
+    "plus": "cell",
+    "pointing_hand": "pointer",
+    "question_arrow": "help",
+    "right-arrow": "right_side",
+    "row-resize": "split_v",
+    "s-resize": "size_ver",
+    "sb_h_double_arrow": "size_hor",
+    "sb_v_double_arrow": "size_ver",
+    "se-resize": "lr_angle",
+    "size_all": "fleur",
+    "split_h": "size_hor",
+    "sw-resize": "ll_angle",
+    "top_left_corner": "ul_angle",
+    "top_right_corner": "ur_angle",
+    "v_double_arrow": "size_ver",
+    "w-resize": "size_hor",
+    "watch": "wait",
+    "whats_this": "help",
+    "xterm": "text"
+  },
+  "hyprcursor": {
+    "name": "Deepin-Light-hyprcursor",
+    "description": "Deepin Light Cursor Theme for Hyprland",
+    "version": "1.0",
+    "resizeAlgorithm": "bilinear"
+  }
+}

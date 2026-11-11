@@ -1,20 +1,37 @@
 # Cursors
 
-My cursor theme repository.
+My cursor theme repository. Every theme is built from committed sources by one
+builder, producing an Xcursor theme and, where the theme supports it, a
+Hyprland (hyprcursor) theme.
 
-## Available Packages
+## Layout
 
-### Combined theme packages
+```
+themes/<theme>/
+  theme.json    cursor list: per-frame size, hotspot, delay; alias map; names
+  <hash>.png    one file per unique animation frame, exactly the pixels the
+                Xcursor file stores
+```
 
-These package attrs install the matching Xcursor and Hyprcursor outputs where available, and expose reusable cursor metadata through `passthru`/lifted derivation attrs:
+`theme.json` is the single source of truth. Frames are stored in PNG form as the
+exact RGBA bytes an Xcursor image chunk holds, so nominal size always equals the
+bitmap size and consumers never rescale a cursor. Alias names are plain
+symlinks, so the whole theme costs one copy of each image.
+
+`scripts/build-theme.sh` turns a theme directory into either output; the flake
+calls it once per package. Deepin, Earendil, Popucom, Raccoin and SSB frames
+were extracted once from the previously committed binaries, which are gone.
+
+## Packages
+
+Combined packages install the matching Xcursor and Hyprcursor outputs and expose
+cursor metadata through `passthru`:
 
 - `deepin-dark`, `deepin-light`
 - `earendil-dark`, `earendil-light`
 - `popucom-<colour>`
 - `raccoin`, `raccoin-<variant>`
-- `ssb` - Xcursor only
-
-Example:
+- `ssb` (Xcursor only)
 
 ```nix
 let
@@ -28,51 +45,34 @@ in {
 }
 ```
 
-Useful attrs include `theme.xcursorThemeName`, `theme.hyprcursorThemeName`, `theme.cursorTheme`, `theme.cursorSessionVariables`, `theme.gtkCursorSettings`, and the `mk*` helpers for size-aware settings.
+Useful attrs: `cursorPackages`, `cursorSessionVariables`,
+`mkCursorSessionVariables`, `xcursorThemeName`, `hyprcursorThemeName`,
+`gtkCursorSettings`, `mkGtkCursorSettings`.
 
-### Deepin
+### Individual outputs
 
-- `deepin-dark-xcursor` - Deepin Dark Xcursor theme
-- `deepin-dark-hyprcursor` - Deepin Dark Hyprland cursor theme
-- `deepin-light-xcursor` - Deepin Light Xcursor theme
-- `deepin-light-hyprcursor` - Deepin Light Hyprland cursor theme
+- `deepin-dark-xcursor`, `deepin-dark-hyprcursor`
+- `deepin-light-xcursor`, `deepin-light-hyprcursor`
+- `earendil-dark-xcursor`, `earendil-dark-hyprcursor`
+- `earendil-light-xcursor`, `earendil-light-hyprcursor`
+- `popucom-<colour>-xcursor`, `popucom-<colour>-hyprcursor`
+- `raccoin-<variant>-xcursor`, `raccoin-<variant>-hyprcursor`
+- `raccoin-xcursor`, `raccoin-hyprcursor` (aliases for the `default` variant)
+- `ssb-xcursor`
 
-### Earendil
+Popucom colours: `pink`, `green`, `blue`, `yellow`, `red`, `orange`, `cyan`,
+`purple`, `grey`, `black`, `inverted`. Raccoin variants: `default`, `dark`,
+`bw`, `black-outline`.
 
-- `earendil-dark-xcursor` - Earendil Dark Xcursor theme generated from SVG
-- `earendil-dark-hyprcursor` - Earendil Dark Hyprland cursor theme generated from SVG
-- `earendil-light-xcursor` - Earendil Light Xcursor theme generated from SVG
-- `earendil-light-hyprcursor` - Earendil Light Hyprland cursor theme generated from SVG
+## Credits
 
-### Popucom
-
-Available colours: `pink`, `green`, `blue`, `yellow`, `red`, `orange`, `cyan`, `purple`, `grey`, `black`, `inverted`.
-
-- `popucom-<colour>-xcursor` - Popucom animated Xcursor theme
-- `popucom-<colour>-hyprcursor` - Popucom animated Hyprland cursor theme
-
-### Raccoin
-
-Available variants: `default`, `dark`, `bw`, `black-outline`.
-
-- `raccoin-<variant>-xcursor` - Raccoin Xcursor theme
-- `raccoin-<variant>-hyprcursor` - Raccoin Hyprland cursor theme
-- `raccoin-xcursor` - alias for `raccoin-default-xcursor`
-- `raccoin-hyprcursor` - alias for `raccoin-default-hyprcursor`
-
-### SSB
-
-- `ssb-xcursor` - Super Smash Bros Ultimate Xcursor theme
-
-## Credited Cursor Themes
-
-- `deepin-dark` - Deepin dark SVG source plus generated Xcursor and Hyprland cursor package sources
-- `deepin-light` - Deepin light SVG source plus generated Xcursor and Hyprland cursor package sources
-- `earendil-dark` - Earendil dark SVG source plus generated Xcursor and Hyprland cursor package sources
-- `earendil-light` - Earendil light SVG source plus generated Xcursor and Hyprland cursor package sources
-- `popucom` - Popucom colour variants plus generated Xcursor and Hyprland cursor package sources
-- `themes/raccoin` - Raccoin colour variants plus generated Xcursor and Hyprland cursor package sources
-- `ssb` - Super Smash Bros Ultimate Xcursor package source
+- `deepin-*` - Deepin cursor artwork
+- `earendil-*` - Earendil website cursor, https://earendil.com (source asset
+  `_static/cursor-dark.svg` / `_static/cursor-light.svg` from
+  https://github.com/earendil-works/website)
+- `popucom-*` - Popucom cursor artwork
+- `raccoin-*` - Raccoin cursor artwork
+- `ssb-*` - Super Smash Bros Ultimate cursor artwork
 
 <!-- previews:start -->
 ## Previews
@@ -118,4 +118,5 @@ Generated with `scripts/generate-readme-previews.py`.
 | Raccoin-Black-Outline-xcursor | SSB-xcursor |
 | --- | --- |
 | <img src="docs/previews/raccoin-black-outline.svg" alt="Raccoin-Black-Outline-xcursor preview" width="360"> | <img src="docs/previews/ssb.svg" alt="SSB-xcursor preview" width="360"> |
+
 <!-- previews:end -->
