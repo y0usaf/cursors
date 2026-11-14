@@ -6,39 +6,39 @@
 <rect class="bg" width="592" height="448" rx="16"/>
 <text class="title" x="24" y="34">Pixel-Dark-xcursor</text>
 <rect class="card" x="24" y="52" width="112" height="102" rx="12"/>
-<image x="48" y="66" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAATElEQVR42u3XMQoAIAwEwfz/04q9jZJCzhkI6bcIpAoAAAAAAIA+41JUgLVORgABBMgOsDl4AggggCMogAAChAb4+hkCAAAAAAB4wQQ9Ho6ADfqAgQAAAABJRU5ErkJggg=="/>
+<image x="48" y="66" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAd0lEQVR42u3asQoAIAhAQf//p4v2thIy70E0e5NEEZIkade4VGmAdZ0cAAAAAAAAAMC/AO0XodIDAgAAAACARIDxSOkPIpmLVOlFDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgCUPqDhCRJfzcBPKDYiskrElUAAAAASUVORK5CYII="/>
 <text class="label" x="80" y="140">default</text>
 <rect class="card" x="160" y="52" width="112" height="102" rx="12"/>
-<image x="184" y="66" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAARklEQVR42u3XMQoAMAgEQf//6Yi9pBCrZAYO++2MAAAAAAAAYM8ZeipAndsEEECAvwN0QQQQQAABBBBAAM8QAAAAAAAACxJKcY6AqA65jAAAAABJRU5ErkJggg=="/>
+<image x="184" y="66" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAoElEQVR42u3aMQ6AIAwFUO5/aY2LozQiUPD9pHFqAs/BipYiItEcwWwNcF2eCgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABw949IaoBaf2sBAAAAAAAADRsMPGOrC2jp/wLg9ZwwYoGzCwAAAAAAAADQbxDKsMFuByarAEx9FwAAAAAAADsDLH3gkeHLUeo7DAAAAAAAAPSdE1L/ACHyv5z73Ec4AN4zEAAAAABJRU5ErkJggg=="/>
 <text class="label" x="216" y="140">pointer</text>
 <rect class="card" x="296" y="52" width="112" height="102" rx="12"/>
-<image x="320" y="66" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAASElEQVR42u3XsQoAIAhAQf//p402oSZtijuQBiffVgQAAAAAAADvZNNXAfZT53LssRdAAAEEEEAAAQQQQAABfIYAAAAAAAAYWhT97iBaScs9AAAAAElFTkSuQmCC"/>
+<image x="320" y="66" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAcUlEQVR42u3aWwoAEBRFUfOfNJmB8sjprl3ybeVDaE2SJEnSbv1RXwPM6eYAAAAAAAAAAOQehFYWGHsQOrFDohcIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKUAyl+LexgBAAAAAAAA/A8o+1FSkiRJymkAT+vLbf9QKrsAAAAASUVORK5CYII="/>
 <text class="label" x="352" y="140">text</text>
 <rect class="card" x="432" y="52" width="112" height="102" rx="12"/>
-<image x="456" y="66" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAASklEQVR42u3WsQkAMAgAQfdfOsERDClE70DSf2GMAAAAAAAA4J/zaFSAfCojgAACzAqwfgkKIIA7wC8ggADugJ1LEAAAAAAAoIMLFP3uILsgoy8AAAAASUVORK5CYII="/>
+<image x="456" y="66" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAiklEQVR42u3bQQ4AEAwEQP//NPEDF23pbCLOnUhIMYaInGY+kqsAe6o8AAAAAAAAAAAAAAAAAAAAAADxDZGIAtMaIhVWSGqBAAAAAAAAwN1zQul9PmKFPF0gAAAAALQGaL8NOggBAAAAAICPAdq3xV2MAAAAAAAAAAAAAAAAAAAAAN4Jtvs4KfJfFhbnxcfnrRfoAAAAAElFTkSuQmCC"/>
 <text class="label" x="488" y="140">wait</text>
 <rect class="card" x="24" y="176" width="112" height="102" rx="12"/>
-<image x="48" y="190" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAUElEQVR42u3XsQ4AEAxAwf7/TxMzi8Yg7V0iZm8oIgAAAAAAAHhnJJUKsLabJYAAAtQKcBhw24FLD0EBBGgewC0ggADeAW0/QwAAAAAAAD+YqQa+UKFcOC4AAAAASUVORK5CYII="/>
+<image x="48" y="190" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAf0lEQVR42u3asQ4AEAxAQf//08Ruo9JyLxGzmxq0JkmSVvVDlQaY284CAAAAAAAAALwL8P0gVPqAAAAAAAAgEKAnKfxCJHKQKj2IAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACOHzDt/4RbAKWf1gAAAAAAwMsAqT9ASJL0dwNpqJjKr58SAwAAAABJRU5ErkJggg=="/>
 <text class="label" x="80" y="264">progress</text>
 <rect class="card" x="160" y="176" width="112" height="102" rx="12"/>
-<image x="184" y="190" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAASklEQVR42u3UMQoAIAwEwfz/0xG7gFaJlcyAWFi5xUUAAAAAAADwTjZ9FWBf9Vw+e7wLIIAARlAAAQQwggIIIIARBAAAAAAAYGgB7M1Nzxkn+fIAAAAASUVORK5CYII="/>
+<image x="184" y="190" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAcUlEQVR42u3aTQoAEBCA0bn/pckFjAX5e1/JUj0bUyIkSZIkra4M9jRA23oLAAAAAAAAAAAAAAAAAAAAuHSeT2b9FGDCGftucPcCAAAAAAAAAHgIeQoDAAAAAAAAAAAAAAAAAAAA5wB8/VFSkiRJOqcKT+vLbYPfG2YAAAAASUVORK5CYII="/>
 <text class="label" x="216" y="264">crosshair</text>
 <rect class="card" x="296" y="176" width="112" height="102" rx="12"/>
-<image x="320" y="190" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAUUlEQVR42u3XMQoAIAwEQf//acVeIoiFnDOQxi5bxdYAAAAAAAC4px+KDjCfqxFAAAGyAqwWrIIIIIAA2QF2QQQQQIDsQ+irzxAAAAAAAMALBhT97iB0E6bOAAAAAElFTkSuQmCC"/>
+<image x="320" y="190" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAtklEQVR42u3bUQqAIBAFQO9/6aIbSLburs2D6FcH5InWGCIym6tIUgGeV+YDAAAAAAAAJPZ8ZYDlfUSVCb6dwMz4WwBELlEAAAAAANAV4It9SjpAdM+3AMjcigMAAAAAgKoAO84jwgGye74EQOUjNwAAAAAAkAVQ4d5hGaB6z28BOPZqDQAAAAAANO/5ZYDuPZ/+hQkAAAAAADgVoEPPhwN0mGDYDxfWOAAAAAAA+DlAhwwRmc0NKY8SsxhRQnwAAAAASUVORK5CYII="/>
 <text class="label" x="352" y="264">not-allowed</text>
 <rect class="card" x="432" y="176" width="112" height="102" rx="12"/>
-<image x="456" y="190" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAQUlEQVR42u3WsQkAAAgEMfdfWnEExUoSeOyvMgIAAAAAAIA7uSSAAAII8CZAn8kEEEAAAQQQQACPEAAAAAAAAEcKNH3uIPrN1YkAAAAASUVORK5CYII="/>
+<image x="456" y="190" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAVklEQVR42u3WsQkAMAhFQfdfWskEqQTFOwjpX+OPAAAAfnKJ1gDvm/wEEEAAAQQQQABDCACcQUNIAAEEEEAAAQQwhADAGTSEBBBAAAEEEEAAQwgAAI4ramdoCWdCILkAAAAASUVORK5CYII="/>
 <text class="label" x="488" y="264">context-menu</text>
 <rect class="card" x="24" y="300" width="112" height="102" rx="12"/>
-<image x="48" y="314" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAARUlEQVR42u3UIQoAQAhFQe9/aRebWTaIzMAvxheMAAAAAAAA4J8cEkAAAQQ4G6DOfQIIIIAnKIAAAghwMgAAAAAAAMAGDzCj3T+ZvKUGAAAAAElFTkSuQmCC"/>
+<image x="48" y="314" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAhklEQVR42u3aSwrAIAxAwdz/0pZewCqNn8A8kO6CnWUwQpIkjdSSOjU/BeD9/DlfACvnAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJN7+YwLnpzfBcq4wO0HAAAAAAAAAAAAAAAAAAAAALB/IbLjB5c9pKwCcPVOEAAAAAAAVAaoUEiSpJEekNjE1tzdBWMAAAAASUVORK5CYII="/>
 <text class="label" x="80" y="388">grab</text>
 <rect class="card" x="160" y="300" width="112" height="102" rx="12"/>
-<image x="184" y="314" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAN0lEQVR42u3QMQEAAAgDoPUvrR2mJ0QgAQAAAAAA4M+UBAgQIECAAAECBAgQIEAAAAAAAAAANwuciw0exaf/iQAAAABJRU5ErkJggg=="/>
+<image x="184" y="314" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAcUlEQVR42u3aUQoAEBBAwb3/pckRJO2y80q+TYoiQpIkSdJuo0ipAGvKHAAAAAAAAEDiOV8B4No9ocICU3cIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0Ayg9cOIt0EAAAAAAADg6J7w9UdJSZIk6d0m1lpHOJcUoPAAAAAASUVORK5CYII="/>
 <text class="label" x="216" y="388">grabbing</text>
 <rect class="card" x="296" y="300" width="112" height="102" rx="12"/>
-<image x="320" y="314" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAATUlEQVR42u3XsQoAIAhAQf//pws3oSAIJ7kDaXDqDUERAAAAAAAA9FmfRgXIo87lssdeAAEEmBvgNQIIIIBHUAABBPAZAgAAAAAAoMkGqQa+UPu3WFQAAAAASUVORK5CYII="/>
+<image x="320" y="314" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAkElEQVR42u3ZuQ2AQAwAQfffNIgOCOD8zUqIEDTJGRMh6auuIqUCPLfMCwAAAAAAAEg858cDvHmBn4ec+gBTnw8AAAAAANYDZC4k0gEqbJwAAAAAAMBUgPKfwx02SgAAAAAAAMDgc749QBz4r2CUBQAAAAAAAHoOQqMBJEmbW38MGoQAAAAAAAAA+wD7AKlMN830mbsJHySFAAAAAElFTkSuQmCC"/>
 <text class="label" x="352" y="388">help</text>
 <rect class="card" x="432" y="300" width="112" height="102" rx="12"/>
-<image x="456" y="314" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAATklEQVR42u3XsQoAIAhAQf//pws3oSAIJ7mDaHDqDUIRAAAAAAAA9FmfRgXIq57LY4+5AAIIMHcJvoIIIIAAlqAAAgjgMwQAAAAAAECTDYDlHf/dm3R2AAAAAElFTkSuQmCC"/>
+<image x="456" y="314" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAiklEQVR42u3ZwQkAIQwEQPtvWrEBCShGwywEv+d8sniticit9GBKA8xjNQAAAAAAAEDhPR8B+LYnRC64OwAAAAAAAAAARUgVBgAAAAAACWtsNyfW4IFvyCsy2QMAAAAAAAAAUIRUYQAAAAAA4FncjxEAAAAAAAAAgCKkCgMAAAAAAAD5PaE0gMh7GVMnx6nb8CJcAAAAAElFTkSuQmCC"/>
 <text class="label" x="488" y="388">move</text>
 </svg>

@@ -13,71 +13,111 @@ DELAY = 50
 
 ART = {
     "default": [
-        "###",
-        "#o#",
-        "###",
-    ],
-    "pointer": [
-        "##o",
-        "###",
-        "###",
-    ],
-    "text": [
-        "#o#",
-        "#o#",
-        "#o#",
-    ],
-    "vertical-text": [
-        "ooo",
-        "###",
-        "ooo",
-    ],
-    "crosshair": [
-        "#o#",
-        "ooo",
-        "#o#",
-    ],
-    "move": [
-        "#o#",
-        "o#o",
-        "#o#",
-    ],
-    "grab": [
-        "ooo",
-        "o#o",
-        "ooo",
-    ],
-    "grabbing": [
-        "ooo",
-        "ooo",
-        "ooo",
-    ],
-    "not-allowed": [
-        "o##",
-        "#o#",
-        "##o",
+        "##....",
+        "#.....",
+        "..####",
+        "..####",
+        "..####",
+        "..####",
     ],
     "progress": [
-        "###",
-        "o#o",
-        "###",
+        "##....",
+        "#.....",
+        "..####",
+        "..####",
+        "..####",
+        "..###.",
     ],
-    "wait": [
-        "###",
-        "ooo",
-        "###",
+    "pointer": [
+        ".#.....",
+        ".#.....",
+        ".#.....",
+        ".#.###.",
+        "#######",
+        ".#####.",
+        "..###..",
     ],
     "help": [
-        "#o#",
-        "###",
-        "#o#",
+        ".####",
+        "#...#",
+        "....#",
+        "...##",
+        "..#..",
+        ".....",
+        "..#..",
     ],
     "context-menu": [
-        "ooo",
+        "#####",
+        ".....",
+        "#####",
+        ".....",
+        "#####",
+    ],
+    "text": [
         "###",
+        ".#.",
+        ".#.",
+        ".#.",
         "###",
     ],
+    "vertical-text": [
+        "#.....#",
+        "#######",
+        "#.....#",
+    ],
+    "crosshair": [
+        "..#..",
+        "..#..",
+        "#####",
+        "..#..",
+        "..#..",
+    ],
+    "move": [
+        "...#...",
+        "..###..",
+        "...#...",
+        "#######",
+        "...#...",
+        "..###..",
+        "...#...",
+    ],
+    "grab": [
+        ".##.##.",
+        ".##.##.",
+        ".##.##.",
+        "#######",
+        "#######",
+        ".#####.",
+    ],
+    "grabbing": [
+        ".####.",
+        "######",
+        "######",
+        "######",
+        ".####.",
+    ],
+    "not-allowed": [
+        ".####..",
+        "####..#",
+        "###..##",
+        "##..###",
+        "#..####",
+        "..#####",
+        ".#####.",
+    ],
+    "wait": [
+        "#####",
+        "#####",
+        ".###.",
+        "..#..",
+        ".###.",
+        "#####",
+        "#####",
+    ],
 }
+
+TIP_CORNER = {"default", "progress", "help", "context-menu"}
+TIP_CELL = {"pointer": (1, 0)}
 
 NAME_ART = {
     "alias": "pointer",
@@ -181,48 +221,66 @@ NAME_ART = {
     "zoom-out": "move",
 }
 
-HOTSPOT_LEFT = {"text"}
-
 VARIANTS = {
-    "pixel-dark": ("Pixel-Dark-xcursor", "Pixel square cursor, dark variant", (0, 0, 0), (255, 255, 255)),
-    "pixel-light": ("Pixel-Light-xcursor", "Pixel square cursor, light variant", (255, 255, 255), (0, 0, 0)),
+    "pixel-dark": ("Pixel-Dark-xcursor", "Pixel cursor, cube and corner tick, dark variant", (0, 0, 0), (255, 255, 255)),
+    "pixel-light": ("Pixel-Light-xcursor", "Pixel cursor, cube and corner tick, light variant", (255, 255, 255), (0, 0, 0)),
 }
-
 
 def masks(grid):
     height = len(grid)
     width = len(grid[0])
     shape = {(x, y) for y in range(height) for x in range(width) if grid[y][x] != "."}
-    marks = {(x, y) for x, y in shape if grid[y][x] == "o"}
-    return shape, marks, width, height
+    return shape, width, height
 
+def cell_size(nominal):
+    return max(1, (nominal + 4) // 8)
 
-def grid_span():
-    return max(max(max(len(row) for row in art), len(art)) for art in ART.values())
-
-
-def render(grid, nominal, fill, contrast, left_hotspot):
-    shape, marks, width, height = masks(grid)
-    scale = min(max(1, nominal * 7 // 32), (nominal - 2) // grid_span())
-    ink_w = width * scale + 2
-    ink_h = height * scale + 2
-    left = (nominal - ink_w) // 2
-    top = (nominal - ink_h) // 2
-    pixels = bytearray(nominal * nominal * 4)
-    for py in range(ink_h):
-        for px in range(ink_w):
-            cell_x = (px - 1) // scale
-            cell_y = (py - 1) // scale
-            inside = px not in (0, ink_w - 1) and py not in (0, ink_h - 1)
-            if inside and (cell_x, cell_y) in shape:
-                color = contrast if (cell_x, cell_y) in marks else fill
-            else:
+def render(name, grid, nominal, fill, contrast):
+    shape, width, height = masks(grid)
+    cell = cell_size(nominal)
+    pixels = {(x * cell + dx, y * cell + dy) for x, y in shape for dy in range(cell) for dx in range(cell)}
+    min_x = min(p[0] for p in pixels)
+    min_y = min(p[1] for p in pixels)
+    max_x = max(p[0] for p in pixels)
+    max_y = max(p[1] for p in pixels)
+    ink_w = max_x - min_x + 3
+    ink_h = max_y - min_y + 3
+    if ink_w > nominal or ink_h > nominal:
+        raise SystemExit(f"{name}: {ink_w}x{ink_h} ink does not fit nominal {nominal}")
+    origin_x = (nominal - ink_w) // 2 - min_x + 1
+    origin_y = (nominal - ink_h) // 2 - min_y + 1
+    buffer = bytearray(nominal * nominal * 4)
+    painted = set()
+    for py in range(min_y - 1, max_y + 2):
+        for px in range(min_x - 1, max_x + 2):
+            if (px, py) in pixels:
+                color = fill
+            elif any((px + dx, py + dy) in pixels for dy in (-1, 0, 1) for dx in (-1, 0, 1)):
                 color = contrast
-            offset = ((top + py) * nominal + left + px) * 4
-            pixels[offset : offset + 4] = bytes(color) + b"\xff"
-    hotspot_x = left if left_hotspot else nominal // 2
-    return nominal, hotspot_x, nominal // 2, bytes(pixels)
-
+            else:
+                continue
+            offset = ((py + origin_y) * nominal + px + origin_x) * 4
+            buffer[offset : offset + 4] = bytes(color) + b"\xff"
+            painted.add((px + origin_x, py + origin_y))
+    on_ink = True
+    if name in TIP_CELL:
+        cell_x, cell_y = TIP_CELL[name]
+        hotspot = (origin_x + cell_x * cell + 1, origin_y + cell_y * cell - 1)
+    elif name in TIP_CORNER:
+        hotspot = min(painted, key=lambda point: (point[1], point[0]))
+    else:
+        on_ink = False
+        hotspot = (
+            origin_x + min_x - 1 + (ink_w - 1) // 2,
+            origin_y + min_y - 1 + (ink_h - 1) // 2,
+        )
+    hotspot_x, hotspot_y = hotspot
+    if not (0 <= hotspot_x < nominal and 0 <= hotspot_y < nominal):
+        raise SystemExit(f"{name}: hotspot {hotspot} outside nominal {nominal}")
+    offset = (hotspot_y * nominal + hotspot_x) * 4
+    if on_ink and buffer[offset + 3] == 0:
+        raise SystemExit(f"{name}: hotspot {hotspot} is transparent at nominal {nominal}")
+    return nominal, hotspot_x, hotspot_y, bytes(buffer)
 
 def write_png(path, width, height, pixels):
     stride = width * 4
@@ -238,7 +296,6 @@ def write_png(path, width, height, pixels):
         data += struct.pack(">I", zlib.crc32(kind + body) & 0xFFFFFFFF)
     path.write_bytes(data)
 
-
 def standard_names():
     names = set(NAME_ART)
     for meta_path in sorted(THEMES.glob("*/theme.json")):
@@ -249,13 +306,11 @@ def standard_names():
         names.update(meta.get("aliases", {}))
     return sorted(names)
 
-
 def names_of(cursors, aliases):
     for name in sorted(set(cursors) | set(aliases)):
         value = cursors.get(name, aliases.get(name))
         if value is None:
             raise SystemExit(f"{name}: unresolved")
-
 
 def main():
     aliases = {}
@@ -273,7 +328,7 @@ def main():
         for art, grid in ART.items():
             frames = []
             for nominal in NOMINALS:
-                size, x, y, pixels = render(grid, nominal, fill, contrast, art in HOTSPOT_LEFT)
+                size, x, y, pixels = render(art, grid, nominal, fill, contrast)
                 file = f"{art}-{size}.png"
                 write_png(theme_dir / file, size, size, pixels)
                 frames.append({"size": size, "x": x, "y": y, "delay": DELAY, "file": file})
@@ -287,7 +342,6 @@ def main():
         }
         (theme_dir / "theme.json").write_text(json.dumps(meta, indent=2, sort_keys=True) + "\n")
         print(f"{slug}: {len(cursors)} cursors, {len(aliases)} aliases")
-
 
 if __name__ == "__main__":
     sys.exit(main())

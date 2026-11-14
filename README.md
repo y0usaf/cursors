@@ -31,7 +31,7 @@ cursor metadata through `passthru`:
 
 - `deepin-dark`, `deepin-light`
 - `earendil-dark`, `earendil-light`
-- `pixel-dark`, `pixel-light` (one 23 px square, state shown by a 3x3 bit field)
+- `pixel-dark`, `pixel-light` (4 px cells, cube plus corner tick default, one fill and a 1 px outline per state)
 - `popucom-<colour>`
 - `raccoin`, `raccoin-<variant>`
 - `ssb` (Xcursor only)
@@ -74,7 +74,7 @@ Popucom colours: `pink`, `green`, `blue`, `yellow`, `red`, `orange`, `cyan`,
 - `earendil-*` - Earendil website cursor, https://earendil.com (source asset
   `_static/cursor-dark.svg` / `_static/cursor-light.svg` from
   https://github.com/earendil-works/website)
-- `pixel-*` - Original square pixel cursor, designed 2026-11-14
+- `pixel-*` - Original pixel cursor set, designed 2026-11-14
 - `popucom-*` - Popucom cursor artwork
 - `raccoin-*` - Raccoin cursor artwork
 - `ssb-*` - Super Smash Bros Ultimate cursor artwork

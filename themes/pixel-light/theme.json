@@ -122,36 +122,36 @@
     "zoom-in": "move",
     "zoom-out": "move"
   },
-  "comment": "Pixel square cursor, light variant",
+  "comment": "Pixel cursor, cube and corner tick, light variant",
   "cursors": {
     "context-menu": [
       {
         "delay": 50,
         "file": "context-menu-32.png",
         "size": 32,
-        "x": 16,
-        "y": 16
+        "x": 5,
+        "y": 5
       },
       {
         "delay": 50,
         "file": "context-menu-40.png",
         "size": 40,
-        "x": 20,
-        "y": 20
+        "x": 6,
+        "y": 6
       },
       {
         "delay": 50,
         "file": "context-menu-48.png",
         "size": 48,
-        "x": 24,
-        "y": 24
+        "x": 8,
+        "y": 8
       },
       {
         "delay": 50,
         "file": "context-menu-64.png",
         "size": 64,
-        "x": 32,
-        "y": 32
+        "x": 11,
+        "y": 11
       }
     ],
     "crosshair": [
@@ -159,29 +159,29 @@
         "delay": 50,
         "file": "crosshair-32.png",
         "size": 32,
-        "x": 16,
-        "y": 16
+        "x": 15,
+        "y": 15
       },
       {
         "delay": 50,
         "file": "crosshair-40.png",
         "size": 40,
-        "x": 20,
-        "y": 20
+        "x": 19,
+        "y": 19
       },
       {
         "delay": 50,
         "file": "crosshair-48.png",
         "size": 48,
-        "x": 24,
-        "y": 24
+        "x": 23,
+        "y": 23
       },
       {
         "delay": 50,
         "file": "crosshair-64.png",
         "size": 64,
-        "x": 32,
-        "y": 32
+        "x": 31,
+        "y": 31
       }
     ],
     "default": [
@@ -189,29 +189,29 @@
         "delay": 50,
         "file": "default-32.png",
         "size": 32,
-        "x": 16,
-        "y": 16
+        "x": 3,
+        "y": 3
       },
       {
         "delay": 50,
         "file": "default-40.png",
         "size": 40,
-        "x": 20,
-        "y": 20
+        "x": 4,
+        "y": 4
       },
       {
         "delay": 50,
         "file": "default-48.png",
         "size": 48,
-        "x": 24,
-        "y": 24
+        "x": 5,
+        "y": 5
       },
       {
         "delay": 50,
         "file": "default-64.png",
         "size": 64,
-        "x": 32,
-        "y": 32
+        "x": 7,
+        "y": 7
       }
     ],
     "grab": [
@@ -219,29 +219,29 @@
         "delay": 50,
         "file": "grab-32.png",
         "size": 32,
-        "x": 16,
-        "y": 16
+        "x": 15,
+        "y": 15
       },
       {
         "delay": 50,
         "file": "grab-40.png",
         "size": 40,
-        "x": 20,
-        "y": 20
+        "x": 19,
+        "y": 19
       },
       {
         "delay": 50,
         "file": "grab-48.png",
         "size": 48,
-        "x": 24,
-        "y": 24
+        "x": 23,
+        "y": 23
       },
       {
         "delay": 50,
         "file": "grab-64.png",
         "size": 64,
-        "x": 32,
-        "y": 32
+        "x": 31,
+        "y": 31
       }
     ],
     "grabbing": [
@@ -249,29 +249,29 @@
         "delay": 50,
         "file": "grabbing-32.png",
         "size": 32,
-        "x": 16,
-        "y": 16
+        "x": 15,
+        "y": 15
       },
       {
         "delay": 50,
         "file": "grabbing-40.png",
         "size": 40,
-        "x": 20,
-        "y": 20
+        "x": 19,
+        "y": 19
       },
       {
         "delay": 50,
         "file": "grabbing-48.png",
         "size": 48,
-        "x": 24,
-        "y": 24
+        "x": 23,
+        "y": 23
       },
       {
         "delay": 50,
         "file": "grabbing-64.png",
         "size": 64,
-        "x": 32,
-        "y": 32
+        "x": 31,
+        "y": 31
       }
     ],
     "help": [
@@ -279,29 +279,29 @@
         "delay": 50,
         "file": "help-32.png",
         "size": 32,
-        "x": 16,
-        "y": 16
+        "x": 9,
+        "y": 1
       },
       {
         "delay": 50,
         "file": "help-40.png",
         "size": 40,
-        "x": 20,
-        "y": 20
+        "x": 11,
+        "y": 1
       },
       {
         "delay": 50,
         "file": "help-48.png",
         "size": 48,
-        "x": 24,
-        "y": 24
+        "x": 14,
+        "y": 2
       },
       {
         "delay": 50,
         "file": "help-64.png",
         "size": 64,
-        "x": 32,
-        "y": 32
+        "x": 19,
+        "y": 3
       }
     ],
     "move": [
@@ -309,29 +309,29 @@
         "delay": 50,
         "file": "move-32.png",
         "size": 32,
-        "x": 16,
-        "y": 16
+        "x": 15,
+        "y": 15
       },
       {
         "delay": 50,
         "file": "move-40.png",
         "size": 40,
-        "x": 20,
-        "y": 20
+        "x": 19,
+        "y": 19
       },
       {
         "delay": 50,
         "file": "move-48.png",
         "size": 48,
-        "x": 24,
-        "y": 24
+        "x": 23,
+        "y": 23
       },
       {
         "delay": 50,
         "file": "move-64.png",
         "size": 64,
-        "x": 32,
-        "y": 32
+        "x": 31,
+        "y": 31
       }
     ],
     "not-allowed": [
@@ -339,29 +339,29 @@
         "delay": 50,
         "file": "not-allowed-32.png",
         "size": 32,
-        "x": 16,
-        "y": 16
+        "x": 15,
+        "y": 15
       },
       {
         "delay": 50,
         "file": "not-allowed-40.png",
         "size": 40,
-        "x": 20,
-        "y": 20
+        "x": 19,
+        "y": 19
       },
       {
         "delay": 50,
         "file": "not-allowed-48.png",
         "size": 48,
-        "x": 24,
-        "y": 24
+        "x": 23,
+        "y": 23
       },
       {
         "delay": 50,
         "file": "not-allowed-64.png",
         "size": 64,
-        "x": 32,
-        "y": 32
+        "x": 31,
+        "y": 31
       }
     ],
     "pointer": [
@@ -369,29 +369,29 @@
         "delay": 50,
         "file": "pointer-32.png",
         "size": 32,
-        "x": 16,
-        "y": 16
+        "x": 7,
+        "y": 1
       },
       {
         "delay": 50,
         "file": "pointer-40.png",
         "size": 40,
-        "x": 20,
-        "y": 20
+        "x": 8,
+        "y": 1
       },
       {
         "delay": 50,
         "file": "pointer-48.png",
         "size": 48,
-        "x": 24,
-        "y": 24
+        "x": 10,
+        "y": 2
       },
       {
         "delay": 50,
         "file": "pointer-64.png",
         "size": 64,
-        "x": 32,
-        "y": 32
+        "x": 13,
+        "y": 3
       }
     ],
     "progress": [
@@ -399,29 +399,29 @@
         "delay": 50,
         "file": "progress-32.png",
         "size": 32,
-        "x": 16,
-        "y": 16
+        "x": 3,
+        "y": 3
       },
       {
         "delay": 50,
         "file": "progress-40.png",
         "size": 40,
-        "x": 20,
-        "y": 20
+        "x": 4,
+        "y": 4
       },
       {
         "delay": 50,
         "file": "progress-48.png",
         "size": 48,
-        "x": 24,
-        "y": 24
+        "x": 5,
+        "y": 5
       },
       {
         "delay": 50,
         "file": "progress-64.png",
         "size": 64,
-        "x": 32,
-        "y": 32
+        "x": 7,
+        "y": 7
       }
     ],
     "text": [
@@ -429,29 +429,29 @@
         "delay": 50,
         "file": "text-32.png",
         "size": 32,
-        "x": 4,
-        "y": 16
+        "x": 15,
+        "y": 15
       },
       {
         "delay": 50,
         "file": "text-40.png",
         "size": 40,
-        "x": 7,
-        "y": 20
+        "x": 19,
+        "y": 19
       },
       {
         "delay": 50,
         "file": "text-48.png",
         "size": 48,
-        "x": 8,
-        "y": 24
+        "x": 23,
+        "y": 23
       },
       {
         "delay": 50,
         "file": "text-64.png",
         "size": 64,
-        "x": 10,
-        "y": 32
+        "x": 31,
+        "y": 31
       }
     ],
     "vertical-text": [
@@ -459,29 +459,29 @@
         "delay": 50,
         "file": "vertical-text-32.png",
         "size": 32,
-        "x": 16,
-        "y": 16
+        "x": 15,
+        "y": 15
       },
       {
         "delay": 50,
         "file": "vertical-text-40.png",
         "size": 40,
-        "x": 20,
-        "y": 20
+        "x": 19,
+        "y": 19
       },
       {
         "delay": 50,
         "file": "vertical-text-48.png",
         "size": 48,
-        "x": 24,
-        "y": 24
+        "x": 23,
+        "y": 23
       },
       {
         "delay": 50,
         "file": "vertical-text-64.png",
         "size": 64,
-        "x": 32,
-        "y": 32
+        "x": 31,
+        "y": 31
       }
     ],
     "wait": [
@@ -489,29 +489,29 @@
         "delay": 50,
         "file": "wait-32.png",
         "size": 32,
-        "x": 16,
-        "y": 16
+        "x": 15,
+        "y": 15
       },
       {
         "delay": 50,
         "file": "wait-40.png",
         "size": 40,
-        "x": 20,
-        "y": 20
+        "x": 19,
+        "y": 19
       },
       {
         "delay": 50,
         "file": "wait-48.png",
         "size": 48,
-        "x": 24,
-        "y": 24
+        "x": 23,
+        "y": 23
       },
       {
         "delay": 50,
         "file": "wait-64.png",
         "size": 64,
-        "x": 32,
-        "y": 32
+        "x": 31,
+        "y": 31
       }
     ]
   },
