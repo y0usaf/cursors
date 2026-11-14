@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-"""Generate README cursor previews from themes/<id>/theme.json.
-
-Each theme's contact sheet embeds the largest PNG frame of up to twelve
-cursors straight from the committed sources. The README section between
-<!-- previews:start --> and <!-- previews:end --> is replaced in place.
-"""
 
 import base64
 import html
@@ -34,12 +28,14 @@ PREFERRED_CURSORS = [
     "zoom-in",
 ]
 
-FAMILY_ORDER = {"deepin": 0, "earendil": 1, "popucom": 2, "raccoin": 3, "ssb": 4}
+FAMILY_ORDER = {"deepin": 0, "earendil": 1, "pixel": 2, "popucom": 3, "raccoin": 4, "ssb": 5}
 VARIANT_ORDER = {
     ("deepin", "dark"): 0,
     ("deepin", "light"): 1,
     ("earendil", "dark"): 0,
     ("earendil", "light"): 1,
+    ("pixel", "dark"): 0,
+    ("pixel", "light"): 1,
     ("raccoin", "default"): 0,
     ("raccoin", "dark"): 1,
     ("raccoin", "bw"): 2,

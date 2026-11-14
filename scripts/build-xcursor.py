@@ -1,11 +1,4 @@
 #!/usr/bin/env python3
-"""Write an Xcursor theme from theme.json and its PNG frames.
-
-Frames are stored in PNG form as the exact RGBA bytes an Xcursor image chunk
-holds, so the output decodes to the same pixels, hotspots and delays as the
-recorded source. Nominal size and pixel size are always equal; consumers pick a
-frame by nominal size and blit its bitmaps without rescaling.
-"""
 
 import json
 import struct

@@ -21,6 +21,8 @@ symlinks, so the whole theme costs one copy of each image.
 `scripts/build-theme.sh` turns a theme directory into either output; the flake
 calls it once per package. Deepin, Earendil, Popucom, Raccoin and SSB frames
 were extracted once from the previously committed binaries, which are gone.
+Pixel frames are written from their design grids by `scripts/generate-pixel.py`
+at every nominal size, so no cursor is ever rescaled.
 
 ## Packages
 
@@ -29,6 +31,7 @@ cursor metadata through `passthru`:
 
 - `deepin-dark`, `deepin-light`
 - `earendil-dark`, `earendil-light`
+- `pixel-dark`, `pixel-light` (one 23 px square, state shown by a 3x3 bit field)
 - `popucom-<colour>`
 - `raccoin`, `raccoin-<variant>`
 - `ssb` (Xcursor only)
@@ -55,6 +58,7 @@ Useful attrs: `cursorPackages`, `cursorSessionVariables`,
 - `deepin-light-xcursor`, `deepin-light-hyprcursor`
 - `earendil-dark-xcursor`, `earendil-dark-hyprcursor`
 - `earendil-light-xcursor`, `earendil-light-hyprcursor`
+- `pixel-dark-xcursor`, `pixel-light-xcursor`
 - `popucom-<colour>-xcursor`, `popucom-<colour>-hyprcursor`
 - `raccoin-<variant>-xcursor`, `raccoin-<variant>-hyprcursor`
 - `raccoin-xcursor`, `raccoin-hyprcursor` (aliases for the `default` variant)
@@ -70,6 +74,7 @@ Popucom colours: `pink`, `green`, `blue`, `yellow`, `red`, `orange`, `cyan`,
 - `earendil-*` - Earendil website cursor, https://earendil.com (source asset
   `_static/cursor-dark.svg` / `_static/cursor-light.svg` from
   https://github.com/earendil-works/website)
+- `pixel-*` - Original square pixel cursor, designed 2026-11-14
 - `popucom-*` - Popucom cursor artwork
 - `raccoin-*` - Raccoin cursor artwork
 - `ssb-*` - Super Smash Bros Ultimate cursor artwork
@@ -86,6 +91,10 @@ Generated with `scripts/generate-readme-previews.py`.
 | Earendil-Dark-xcursor | Earendil-Light-xcursor |
 | --- | --- |
 | <img src="docs/previews/earendil-dark.svg" alt="Earendil-Dark-xcursor preview" width="360"> | <img src="docs/previews/earendil-light.svg" alt="Earendil-Light-xcursor preview" width="360"> |
+
+| Pixel-Dark-xcursor | Pixel-Light-xcursor |
+| --- | --- |
+| <img src="docs/previews/pixel-dark.svg" alt="Pixel-Dark-xcursor preview" width="360"> | <img src="docs/previews/pixel-light.svg" alt="Pixel-Light-xcursor preview" width="360"> |
 
 | Popucom-Black-xcursor | Popucom-Blue-xcursor |
 | --- | --- |

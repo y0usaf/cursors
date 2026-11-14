@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="592" height="448" viewBox="0 0 592 448">
+<style>
+.bg{fill:#f6f8fa}.card{fill:#fff;stroke:#d0d7de;stroke-width:1}.title{font:600 20px sans-serif;fill:#24292f}.label{font:12px sans-serif;fill:#57606a;text-anchor:middle}
+@media (prefers-color-scheme: dark){.bg{fill:#0d1117}.card{fill:#161b22;stroke:#30363d}.title{fill:#f0f6fc}.label{fill:#8b949e}}
+</style>
+<rect class="bg" width="592" height="448" rx="16"/>
+<text class="title" x="24" y="34">Pixel-Light-xcursor</text>
+<rect class="card" x="24" y="52" width="112" height="102" rx="12"/>
+<image x="48" y="66" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAASklEQVR42u3XwQkAIAwEwfTfdPz7iwjCOQNpYB8HqQIAAAAAAOCqPrycAFMCCCBAdoB98AQQQAAjKIAAAuQG+P0ZAgAAAAAAeG4B0dNB22k1mOMAAAAASUVORK5CYII="/>
+<text class="label" x="80" y="140">default</text>
+<rect class="card" x="160" y="52" width="112" height="102" rx="12"/>
+<image x="184" y="66" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAARUlEQVR42u3XwQkAMAgEQftvOlYgQvSVzMA1sL+LAAAAAAAAYNW53DsBOgIIIMDfAYogAggggAACCCCAMwQAAAAAAMBUAsSAQdsOlZ+aAAAAAElFTkSuQmCC"/>
+<text class="label" x="216" y="140">pointer</text>
+<rect class="card" x="296" y="52" width="112" height="102" rx="12"/>
+<image x="320" y="66" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAARUlEQVR42u3XIQoAQAgAQf//aa8LFs8kM2Ayuc0IAAAAAAAAVuVw7gSo6rHNXgABBBBAAAEEEEAAAQTwDAEAAAAAAPDjAfn04iyi3dJ5AAAAAElFTkSuQmCC"/>
+<text class="label" x="352" y="140">text</text>
+<rect class="card" x="432" y="52" width="112" height="102" rx="12"/>
+<image x="456" y="66" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAR0lEQVR42u3WUQoAQARAQfe/NGfYTSlmygXeByIAAAAAAABolZ+zJ8ArAQQQYFeA80tQAAH8Aa6AAAL4A84uQQAAAAAAgHEF+fTiLBrOJ5QAAAAASUVORK5CYII="/>
+<text class="label" x="488" y="140">wait</text>
+<rect class="card" x="24" y="176" width="112" height="102" rx="12"/>
+<image x="48" y="190" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAATklEQVR42u3XsQkAIAxFwey/tPaChSIIP3eQAXyFmioAAAAAAACeGpeTE+CUAAIIkBVgnc2Bcy9BAQRoHsArIIAA/gGdlyEAAAAAAIDvJmXrEgsHd11ZAAAAAElFTkSuQmCC"/>
+<text class="label" x="80" y="264">progress</text>
+<rect class="card" x="160" y="176" width="112" height="102" rx="12"/>
+<image x="184" y="190" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAARklEQVR42u3UIQ4AMAgEQf7/aepJMBRFZpKqKlZcBAAAAAAAAKty+O4EqOqxzb8AAghgBAUQQAAjKIAAAhhBAAAAAAAAfjwiJIKMcrXFXwAAAABJRU5ErkJggg=="/>
+<text class="label" x="216" y="264">crosshair</text>
+<rect class="card" x="296" y="176" width="112" height="102" rx="12"/>
+<image x="320" y="190" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAATklEQVR42u3X0QkAIAhFUfdfuiYQIYLgdQ44gPdLqwAAAAAAALhqHU5ugIkAAgiQFaBZsA0igAACZAeYgggggADZh9BvzxAAAAAAAMBzG/n04ixfsKUIAAAAAElFTkSuQmCC"/>
+<text class="label" x="352" y="264">not-allowed</text>
+<rect class="card" x="432" y="176" width="112" height="102" rx="12"/>
+<image x="456" y="190" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAP0lEQVR42u3WwQkAAAgDse6/tM6g+JIEusC9mgAAAAAAAHCqlhNAAAEE+BFgSgABBBBAAAEEcIQAAAAAAAA40tp04iy3k7MQAAAAAElFTkSuQmCC"/>
+<text class="label" x="488" y="264">context-menu</text>
+<rect class="card" x="24" y="300" width="112" height="102" rx="12"/>
+<image x="48" y="314" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAQklEQVR42u3UsQkAAAgDQfdfWntLEQS5gyzwRSIAAAAAAABYlcMJIIAAAvwM0AkggABOUAABBBDgawAAAAAAAIBzBd5O8w0tgU6uAAAAAElFTkSuQmCC"/>
+<text class="label" x="80" y="388">grab</text>
+<rect class="card" x="160" y="300" width="112" height="102" rx="12"/>
+<image x="184" y="314" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAO0lEQVR42u3QQREAAAjDsPk3DR4Gz+SuBpoAAAAAAADwasoMMMAAAwwwwAADDDDAAAMMAAAAAAAA4GABcmbDPTSEZgcAAAAASUVORK5CYII="/>
+<text class="label" x="216" y="388">grabbing</text>
+<rect class="card" x="296" y="300" width="112" height="102" rx="12"/>
+<image x="320" y="314" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAASUlEQVR42u3XMQoAMAgAMf//absLIhQnScCpkzcIjQAAAAAAAGBVfs6dAFVdtnkXQAABjgaYCCCAAI6gAAII4DMEAAAAAADAkgdl6xILB8qdswAAAABJRU5ErkJggg=="/>
+<text class="label" x="352" y="388">help</text>
+<rect class="card" x="432" y="300" width="112" height="102" rx="12"/>
+<image x="456" y="314" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAASklEQVR42u3XMQoAMAgAMf//absLIhQnSaCTU28QjAAAAAAAAGBVfr47Aar62WYugAACHF2CUxABBBDAEhRAAAEcQwAAAAAAACx5jgyyXKeG3p4AAAAASUVORK5CYII="/>
+<text class="label" x="488" y="388">move</text>
+</svg>

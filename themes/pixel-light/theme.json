@@ -1,0 +1,519 @@
+{
+  "aliases": {
+    "00000000000000020006000e7e9ffc3f": "default",
+    "00008160000006810000408080010102": "default",
+    "03b6e0fcb3499374a867c041f52298f0": "default",
+    "08e8e1c95fe2fc01f976f1e063a24ccd": "default",
+    "1081e37283d90000800003c07f3ef6bf": "default",
+    "3085a0e285430894940527032f8b26df": "default",
+    "3ecb610c1bf2410f44200f48c40d3599": "default",
+    "4498f0e0c1937ffe01fd06f973665830": "default",
+    "5c6cd98b3f3ebcb1f9c7f1c204630408": "default",
+    "6407b0e94181790501fd1e167b474872": "default",
+    "640fb0e74195791501fd1ed57b41487f": "default",
+    "9081237383d90e509aa00f00170e968f": "default",
+    "9d800788f1b08800ae810202380a0822": "default",
+    "a2a266d0498c3104214a47bd64ab0fc8": "default",
+    "alias": "pointer",
+    "all-resize": "move",
+    "all-scroll": "move",
+    "alt": "default",
+    "arrow": "default",
+    "b66166c04f8c3109214a4fbd64a50fc8": "default",
+    "bd_double_arrow": "move",
+    "bottom_left_corner": "move",
+    "bottom_right_corner": "move",
+    "bottom_side": "move",
+    "cell": "move",
+    "center_ptr": "default",
+    "circle": "not-allowed",
+    "closedhand": "grabbing",
+    "col-resize": "move",
+    "color-picker": "crosshair",
+    "copy": "grabbing",
+    "cross": "crosshair",
+    "crossed_circle": "not-allowed",
+    "d9ce0ab605698f320427677b458ad60b": "default",
+    "dnd-ask": "help",
+    "dnd-copy": "grabbing",
+    "dnd-link": "pointer",
+    "dnd-move": "grabbing",
+    "dnd-no-drop": "not-allowed",
+    "dnd-none": "grabbing",
+    "down-arrow": "move",
+    "draft": "move",
+    "e-resize": "move",
+    "e29285e634086352946a0e7090d73106": "default",
+    "e_resize": "default",
+    "ew-resize": "move",
+    "fcf21c00b30f7e3f83fe0dfd12e71cff": "default",
+    "fd_double_arrow": "move",
+    "fleur": "move",
+    "forbidden": "not-allowed",
+    "h_double_arrow": "move",
+    "h_resize": "default",
+    "half-busy": "progress",
+    "hand1": "pointer",
+    "hand2": "pointer",
+    "ibeam": "text",
+    "left-arrow": "move",
+    "left_ptr": "default",
+    "left_ptr_help": "help",
+    "left_ptr_watch": "progress",
+    "left_side": "move",
+    "link": "pointer",
+    "ll_angle": "move",
+    "loc": "default",
+    "lr_angle": "move",
+    "n-resize": "move",
+    "n_resize": "default",
+    "ne-resize": "move",
+    "ne_resize": "default",
+    "nesw-resize": "move",
+    "no-drop": "not-allowed",
+    "normal": "default",
+    "ns-resize": "move",
+    "nw-resize": "move",
+    "nw_resize": "default",
+    "nwse-resize": "move",
+    "openhand": "grab",
+    "pencil": "text",
+    "person": "default",
+    "pirate": "not-allowed",
+    "plus": "cell",
+    "pointing_hand": "pointer",
+    "question_arrow": "help",
+    "right-arrow": "move",
+    "right_ptr": "default",
+    "right_side": "move",
+    "row-resize": "move",
+    "s-resize": "move",
+    "s_resize": "default",
+    "sb_h_double_arrow": "move",
+    "sb_v_double_arrow": "move",
+    "se-resize": "move",
+    "se_resize": "default",
+    "size_all": "move",
+    "size_bdiag": "move",
+    "size_fdiag": "move",
+    "size_hor": "move",
+    "size_ver": "move",
+    "split_h": "move",
+    "split_v": "move",
+    "sw-resize": "move",
+    "sw_resize": "default",
+    "top_left_arrow": "default",
+    "top_left_corner": "move",
+    "top_right_corner": "move",
+    "top_side": "move",
+    "ul_angle": "move",
+    "unavailable": "default",
+    "up-arrow": "move",
+    "ur_angle": "move",
+    "v_double_arrow": "move",
+    "v_resize": "default",
+    "w-resize": "default",
+    "w_resize": "default",
+    "watch": "wait",
+    "wayland-cursor": "default",
+    "whats_this": "help",
+    "x-cursor": "default",
+    "xterm": "text",
+    "zoom-in": "move",
+    "zoom-out": "move"
+  },
+  "comment": "Pixel square cursor, light variant",
+  "cursors": {
+    "context-menu": [
+      {
+        "delay": 50,
+        "file": "context-menu-32.png",
+        "size": 32,
+        "x": 16,
+        "y": 16
+      },
+      {
+        "delay": 50,
+        "file": "context-menu-40.png",
+        "size": 40,
+        "x": 20,
+        "y": 20
+      },
+      {
+        "delay": 50,
+        "file": "context-menu-48.png",
+        "size": 48,
+        "x": 24,
+        "y": 24
+      },
+      {
+        "delay": 50,
+        "file": "context-menu-64.png",
+        "size": 64,
+        "x": 32,
+        "y": 32
+      }
+    ],
+    "crosshair": [
+      {
+        "delay": 50,
+        "file": "crosshair-32.png",
+        "size": 32,
+        "x": 16,
+        "y": 16
+      },
+      {
+        "delay": 50,
+        "file": "crosshair-40.png",
+        "size": 40,
+        "x": 20,
+        "y": 20
+      },
+      {
+        "delay": 50,
+        "file": "crosshair-48.png",
+        "size": 48,
+        "x": 24,
+        "y": 24
+      },
+      {
+        "delay": 50,
+        "file": "crosshair-64.png",
+        "size": 64,
+        "x": 32,
+        "y": 32
+      }
+    ],
+    "default": [
+      {
+        "delay": 50,
+        "file": "default-32.png",
+        "size": 32,
+        "x": 16,
+        "y": 16
+      },
+      {
+        "delay": 50,
+        "file": "default-40.png",
+        "size": 40,
+        "x": 20,
+        "y": 20
+      },
+      {
+        "delay": 50,
+        "file": "default-48.png",
+        "size": 48,
+        "x": 24,
+        "y": 24
+      },
+      {
+        "delay": 50,
+        "file": "default-64.png",
+        "size": 64,
+        "x": 32,
+        "y": 32
+      }
+    ],
+    "grab": [
+      {
+        "delay": 50,
+        "file": "grab-32.png",
+        "size": 32,
+        "x": 16,
+        "y": 16
+      },
+      {
+        "delay": 50,
+        "file": "grab-40.png",
+        "size": 40,
+        "x": 20,
+        "y": 20
+      },
+      {
+        "delay": 50,
+        "file": "grab-48.png",
+        "size": 48,
+        "x": 24,
+        "y": 24
+      },
+      {
+        "delay": 50,
+        "file": "grab-64.png",
+        "size": 64,
+        "x": 32,
+        "y": 32
+      }
+    ],
+    "grabbing": [
+      {
+        "delay": 50,
+        "file": "grabbing-32.png",
+        "size": 32,
+        "x": 16,
+        "y": 16
+      },
+      {
+        "delay": 50,
+        "file": "grabbing-40.png",
+        "size": 40,
+        "x": 20,
+        "y": 20
+      },
+      {
+        "delay": 50,
+        "file": "grabbing-48.png",
+        "size": 48,
+        "x": 24,
+        "y": 24
+      },
+      {
+        "delay": 50,
+        "file": "grabbing-64.png",
+        "size": 64,
+        "x": 32,
+        "y": 32
+      }
+    ],
+    "help": [
+      {
+        "delay": 50,
+        "file": "help-32.png",
+        "size": 32,
+        "x": 16,
+        "y": 16
+      },
+      {
+        "delay": 50,
+        "file": "help-40.png",
+        "size": 40,
+        "x": 20,
+        "y": 20
+      },
+      {
+        "delay": 50,
+        "file": "help-48.png",
+        "size": 48,
+        "x": 24,
+        "y": 24
+      },
+      {
+        "delay": 50,
+        "file": "help-64.png",
+        "size": 64,
+        "x": 32,
+        "y": 32
+      }
+    ],
+    "move": [
+      {
+        "delay": 50,
+        "file": "move-32.png",
+        "size": 32,
+        "x": 16,
+        "y": 16
+      },
+      {
+        "delay": 50,
+        "file": "move-40.png",
+        "size": 40,
+        "x": 20,
+        "y": 20
+      },
+      {
+        "delay": 50,
+        "file": "move-48.png",
+        "size": 48,
+        "x": 24,
+        "y": 24
+      },
+      {
+        "delay": 50,
+        "file": "move-64.png",
+        "size": 64,
+        "x": 32,
+        "y": 32
+      }
+    ],
+    "not-allowed": [
+      {
+        "delay": 50,
+        "file": "not-allowed-32.png",
+        "size": 32,
+        "x": 16,
+        "y": 16
+      },
+      {
+        "delay": 50,
+        "file": "not-allowed-40.png",
+        "size": 40,
+        "x": 20,
+        "y": 20
+      },
+      {
+        "delay": 50,
+        "file": "not-allowed-48.png",
+        "size": 48,
+        "x": 24,
+        "y": 24
+      },
+      {
+        "delay": 50,
+        "file": "not-allowed-64.png",
+        "size": 64,
+        "x": 32,
+        "y": 32
+      }
+    ],
+    "pointer": [
+      {
+        "delay": 50,
+        "file": "pointer-32.png",
+        "size": 32,
+        "x": 16,
+        "y": 16
+      },
+      {
+        "delay": 50,
+        "file": "pointer-40.png",
+        "size": 40,
+        "x": 20,
+        "y": 20
+      },
+      {
+        "delay": 50,
+        "file": "pointer-48.png",
+        "size": 48,
+        "x": 24,
+        "y": 24
+      },
+      {
+        "delay": 50,
+        "file": "pointer-64.png",
+        "size": 64,
+        "x": 32,
+        "y": 32
+      }
+    ],
+    "progress": [
+      {
+        "delay": 50,
+        "file": "progress-32.png",
+        "size": 32,
+        "x": 16,
+        "y": 16
+      },
+      {
+        "delay": 50,
+        "file": "progress-40.png",
+        "size": 40,
+        "x": 20,
+        "y": 20
+      },
+      {
+        "delay": 50,
+        "file": "progress-48.png",
+        "size": 48,
+        "x": 24,
+        "y": 24
+      },
+      {
+        "delay": 50,
+        "file": "progress-64.png",
+        "size": 64,
+        "x": 32,
+        "y": 32
+      }
+    ],
+    "text": [
+      {
+        "delay": 50,
+        "file": "text-32.png",
+        "size": 32,
+        "x": 4,
+        "y": 16
+      },
+      {
+        "delay": 50,
+        "file": "text-40.png",
+        "size": 40,
+        "x": 7,
+        "y": 20
+      },
+      {
+        "delay": 50,
+        "file": "text-48.png",
+        "size": 48,
+        "x": 8,
+        "y": 24
+      },
+      {
+        "delay": 50,
+        "file": "text-64.png",
+        "size": 64,
+        "x": 10,
+        "y": 32
+      }
+    ],
+    "vertical-text": [
+      {
+        "delay": 50,
+        "file": "vertical-text-32.png",
+        "size": 32,
+        "x": 16,
+        "y": 16
+      },
+      {
+        "delay": 50,
+        "file": "vertical-text-40.png",
+        "size": 40,
+        "x": 20,
+        "y": 20
+      },
+      {
+        "delay": 50,
+        "file": "vertical-text-48.png",
+        "size": 48,
+        "x": 24,
+        "y": 24
+      },
+      {
+        "delay": 50,
+        "file": "vertical-text-64.png",
+        "size": 64,
+        "x": 32,
+        "y": 32
+      }
+    ],
+    "wait": [
+      {
+        "delay": 50,
+        "file": "wait-32.png",
+        "size": 32,
+        "x": 16,
+        "y": 16
+      },
+      {
+        "delay": 50,
+        "file": "wait-40.png",
+        "size": 40,
+        "x": 20,
+        "y": 20
+      },
+      {
+        "delay": 50,
+        "file": "wait-48.png",
+        "size": 48,
+        "x": 24,
+        "y": 24
+      },
+      {
+        "delay": 50,
+        "file": "wait-64.png",
+        "size": 64,
+        "x": 32,
+        "y": 32
+      }
+    ]
+  },
+  "name": "Pixel-Light-xcursor"
+}
