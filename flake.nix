@@ -16,7 +16,7 @@
     raccoinVariants = ["default" "dark" "bw" "black-outline"];
 
     themeIds =
-      ["deepin-dark" "deepin-light" "earendil-dark" "earendil-light" "pixel-dark" "pixel-light"]
+      ["deepin-dark" "deepin-light" "dew-dark" "dew-light" "earendil-dark" "earendil-light" "pixel-dark" "pixel-light"]
       ++ map (color: "popucom-${color}") popucomColors
       ++ map (variant: "raccoin-${variant}") raccoinVariants
       ++ ["ssb"];

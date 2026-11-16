@@ -23,6 +23,8 @@ calls it once per package. Deepin, Earendil, Popucom, Raccoin and SSB frames
 were extracted once from the previously committed binaries, which are gone.
 Pixel frames are written from their design grids by `scripts/generate-pixel.py`
 at every nominal size, so no cursor is ever rescaled.
+DEW frames are drawn from signed distance fields by `scripts/generate-dew.py`
+(it needs numpy), also at every nominal size.
 
 ## Packages
 
@@ -30,6 +32,7 @@ Combined packages install the matching Xcursor and Hyprcursor outputs and expose
 cursor metadata through `passthru`:
 
 - `deepin-dark`, `deepin-light`
+- `dew-dark`, `dew-light` (liquid glass: a thin tinted body, a lit rim and highlight, a hairline edge and a pure black soft shadow, so a compositor can bend what lies behind the body)
 - `earendil-dark`, `earendil-light`
 - `pixel-dark`, `pixel-light` (4 px cells, cube plus corner tick default, one fill and a 1 px outline per state)
 - `popucom-<colour>`
